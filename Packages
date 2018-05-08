@@ -95,16 +95,16 @@ Filename: ./debs/com.lovejb.classicfolders2_2.0.3_iphoneos-arm.deb
 
 Package: com.lovejb.lebly
 Name: Lebly (IOS10-11) - LoveJB
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Font Lebly có đường nét của bút thư pháp. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Description: Font November2 huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Fonts for Anemone
-Depends: firmware (>= 10), mobilesubstrate,com.anemonetheming.anemone
-Filename: ./debs/com.lovejb.lebly_1.0.1_iphoneos-arm.deb
-Size: 13866350	
-MD5sum: 95e5bb074fcbe1e125557803964e5570  
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
+Size: 13866242	
+MD5sum: 3c8a3d9c6ca3638b4a48f7e6141897dd  
 
 Package: com.lovejb.texgyreadventor
 Name: Tex Gyre Adventor (IOS9) - LoveJB
@@ -143,8 +143,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Utilities
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
-Size: 3484380
-MD5sum: cc9fcee33c8875d3651fb91575e32189
+Size:3484372	
+MD5sum: 075857455d76ff06dcdfb5b7565b3520  
 
 Package: com.lovejb.flex3beta3
 Name: Flex 3 iOS 11 - LoveJB
@@ -158,33 +158,7 @@ Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
 Filename: ./debs/com.lovejb.flex3beta3_1:3~Beta46_iphoneos-arm.deb
 Size: 18766902	
-MD5sum: 1d9f6abb3043df4e16e93725cd932098  
-
-Package: com.lovejb.bytafont3
-Name: BytaFont 3 (IOS 10.3.x) - LoveJB
-Version: 1.0.2
-Architecture: iphoneos-arm
-Description: Dùng BytaFont 3 để thay Font chữ toàn hệ thống. Đã được fix lại để hợp với IOS10.3.x
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 10.3), unzip, mobilesubstrate, com.lovejb.bytafonttm
-Filename: ./debs/com.lovejb.bytafont3_1.0.2_iphoneos-arm.deb
-Size: 2002924	
-MD5sum: 1eb117c3295be71114540d5bc2965202 
-
-Package: com.lovejb.bytafontm
-Name: BytaFont Tweak Mode
-Version: 1.0.2
-Architecture: iphoneos-arm
-Description: BytaFont Tweak Mode bổ trợ cho BytaFont3 (IOS10.3.x) - LoveJB.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: mobilesubstrate, com.lovejb.bytafont3
-Filename: ./debs/com.lovejb.bytafontm_1.0.2_iphoneos-arm.deb
-Size: 27680	
-MD5sum: 23a2f30b83e9c76ccb9b82027d4a070b  
+MD5sum: 9195a9ce6abe1f6605a2c57aff2c4569 
 
 Package: com.lovejb.appsyncunified
 Name: AppSync Unified - LoveJB
@@ -210,21 +184,20 @@ Section: Applications
 Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices. Hỗ trợ thêm IOS10.3.x và IOS11
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Icon: file:///Applications/Appvn.app/AppIcon57x57.png
-Name: Appvn (iOS5-11)
-Size: 34107924	
-MD5sum: 80e840ab7a4b975efb6af8feef495509 
-
+Name: Appvn (iOS6-11)
+Size: 34107850	
+MD5sum: 52cf638e796040808ba2363d5db370c7   
 
 Package: com.lovejb.ringtonespatch
 Name: Ringtones Patch
 Version: 2.0-11
 Architecture: iphoneos-arm
-Description: Bổ xung Nhạc chuông cho thiết bị của bạn
+Description: Bổ xung Nhạc chuông cho Thiết bị của bạn
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: @runaway518
 Section: Utilities
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
-Size: 22012	
-MD5sum: 0c60f3bc69d5e48b6b24f309b90ad7c7  
+Size: 22020	
+MD5sum: d7ba0c2602cc17156b34291503fab50c  
 
