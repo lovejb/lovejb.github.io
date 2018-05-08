@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Bản Tiếng Việt cho Activator
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
+Section: Utilities
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
 MD5sum: 72a25e51cda7576a2cdf2495e3432691
 Size: 9200
@@ -43,41 +43,40 @@ Name: Maize (IOS 10.3.x) - LoveJB
 Version: 1.3.1-01
 Architecture: iphoneos-arm
 Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Creatix,LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000),preferenceloader, com.a3tweaks.flipswitch
-Conflicts: org.thebigboss.vigor,com.yourepo.kiiimo.flipcontrolcenter,com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
-Icon: file:///Library/PreferenceBundles/MaizeSettings.bundle/SettingsIcon@2x.png
-MD5sum: 8c00831dd6de29ca4211348acc1f79b6
-Size: 974906
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
+Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
 Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Size: 975048	
+MD5sum:546291861b4f2d2aeda662e7d5d4a732  
 
 Package: com.lovejb.gineso
-Name: Gineso (IOS10) - LoveJB
+Name: Gineso (IOS10-11) - LoveJB
 Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Depends: firmware (>= 10),mobilesubstrate,com.anemonetheming.anemone
-MD5sum: 2bbc33f01e840f1fbc101b5ee48e6a82
-Size: 12366414
-Filename: ./debs/com.lovejb.gineso_1.0.3_iphoneos-arm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Fonts for Anemone
+Depends: firmware (>= 10), mobilesubstrate,com.anemonetheming.anemone
+Filename: ./debs/com.lovejb.gineso_1.0.3_iphoneos-arm.deb
+Size: 12366602	
+MD5sum: 159668f462c3dfebcd003eb09ed1e5fe  
 
 Package: com.lovejb.flotus
-Name: Flotus
+Name: Flotus - LoveJB
 Version: 1.0b3
 Architecture: iphoneos-arm
 Description: Bo tròn Status và Tạo màu nền. Fix by Nguyễn Văn Hà.
-Author: Justin Petkovic,LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Justin Petkovic,LoveOs <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-MD5sum: 59d5cdaa2b9e9ce160457e9031f79b15
-Size: 28774
 Filename: ./debs/com.lovejb.flotus_1.0b3_iphoneos-arm.deb
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Size: 28932	
+MD5sum: 107be85fd14ef38f3e21c792d4fdf48  
 
 Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
@@ -95,40 +94,137 @@ Size: 2416406
 Filename: ./debs/com.lovejb.classicfolders2_2.0.3_iphoneos-arm.deb
 
 Package: com.lovejb.lebly
-Name: Lebly (IOS10) - LoveJB
-Version: 1.0.0
+Name: Lebly (IOS10-11) - LoveJB
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Font Lebly có đường nét của bút thư pháp. Được mod lại full Việt bởi Nguyễn Văn Hà.
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Depends: firmware (>= 10),mobilesubstrate,com.anemonetheming.anemone
-MD5sum: 8efe2f9b0c971eecea717074faa13e8b
-Size: 13866172
-Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Fonts for Anemone
+Depends: firmware (>= 10), mobilesubstrate,com.anemonetheming.anemone
+Filename: ./debs/com.lovejb.lebly_1.0.1_iphoneos-arm.deb
+Size: 13866350	
+MD5sum: 95e5bb074fcbe1e125557803964e5570  
 
 Package: com.lovejb.texgyreadventor
 Name: Tex Gyre Adventor (IOS9) - LoveJB
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
-Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Depends: firmware (>= 10),mobilesubstrate,com.anemonetheming.anemone
-MD5sum: f374eb8be26c0b433d7f0e1c7c57acc4
-Size: 9352550
-Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-ảm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
+Section: Fonts for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
+Size: 9312732	
+MD5sum: 123e19ff9946c91c46dd7aa31a027c0f  
+
 
 Package: com.lovejb.november2
 Name: November2 (IOS9) - LoveJB
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font November2 huyền thoại. Được mod lại full Việt bởi Vũ Quang.
-Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Depends: firmware (>= 10),mobilesubstrate,com.anemonetheming.anemone
-MD5sum: 13ae3590d71dfc9726432e58b8dcdffc
-Size: 5489912
-Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
+Section: Fonts for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
+Size: 5490040	
+MD5sum: 61f0f3f518a639e83e38d35309ac1d6e  
+
+Package: com.lovejb.crackicleaner
+Name: Crack iCleaner Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Crack iCleaner Pro !!! Đăng ký thiết bị với iCleaner Pro. Loại bỏ Quảng cáo, thêm togger vào Activator và ControlCenter để đẩy nhanh thao tác dọn dẹp thiết bị.
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
+Size: 3484380
+MD5sum: cc9fcee33c8875d3651fb91575e32189
+
+Package: com.lovejb.flex3beta3
+Name: Flex 3 iOS 11 - LoveJB
+Version: 1:3~Beta46
+Architecture: iphoneos-arm
+Description: Flex3 - Hỗ trợ IOS10.3.x và IOS11
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: John Coates
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
+Filename: ./debs/com.lovejb.flex3beta3_1:3~Beta46_iphoneos-arm.deb
+Size: 18766902	
+MD5sum: 1d9f6abb3043df4e16e93725cd932098  
+
+Package: com.lovejb.bytafont3
+Name: BytaFont 3 (IOS 10.3.x) - LoveJB
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Dùng BytaFont 3 để thay Font chữ toàn hệ thống. Đã được fix lại để hợp với IOS10.3.x
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.3), unzip, mobilesubstrate, com.lovejb.bytafonttm
+Filename: ./debs/com.lovejb.bytafont3_1.0.2_iphoneos-arm.deb
+Size: 2002924	
+MD5sum: 1eb117c3295be71114540d5bc2965202 
+
+Package: com.lovejb.bytafontm
+Name: BytaFont Tweak Mode
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: BytaFont Tweak Mode bổ trợ cho BytaFont3 (IOS10.3.x) - LoveJB.
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: mobilesubstrate, com.lovejb.bytafont3
+Filename: ./debs/com.lovejb.bytafontm_1.0.2_iphoneos-arm.deb
+Size: 27680	
+MD5sum: 23a2f30b83e9c76ccb9b82027d4a070b  
+
+Package: com.lovejb.appsyncunified
+Name: AppSync Unified - LoveJB
+Version: 9.0
+Architecture: iphoneos-arm
+Description: Cho phép cài đặt ứng dụng từ file IPA bên ngoài vào Smatphone!!!
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Linus Yang, Karen／明美
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
+Size: 37744	
+MD5sum: 3a77de7fdca129a23e37446f0de5a81c  
+
+Package: com.lovejb.appvn
+Version: 5.2.0
+Architecture: iphoneos-arm
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Depends: firmware (>= 5.0),com.lovejb.ringtonespatch, com.lovejb.appsyncunified
+Conflicts: com.appvn82, vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified, vn.gsm.appsync82
+Section: Applications
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices. Hỗ trợ thêm IOS10.3.x và IOS11
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Icon: file:///Applications/Appvn.app/AppIcon57x57.png
+Name: Appvn (iOS5-11)
+Size: 34107924	
+MD5sum: 80e840ab7a4b975efb6af8feef495509 
+
+
+Package: com.lovejb.ringtonespatch
+Name: Ringtones Patch
+Version: 2.0-11
+Architecture: iphoneos-arm
+Description: Bổ xung Nhạc chuông cho thiết bị của bạn
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: @runaway518
+Section: Utilities
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
+Size: 22012	
+MD5sum: 0c60f3bc69d5e48b6b24f309b90ad7c7  
+

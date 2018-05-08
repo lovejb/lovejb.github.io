@@ -6,7 +6,7 @@ Suite: stable
 
 Version: 1.0
 
-Codename: i LoveJB
+Codename: LoveJB
 
 Architecture: iphoneos-arm
 
@@ -16,6 +16,6 @@ Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Luôn sưu tầm Twea
 
 MD5sum:
 
-7208d4452affe8b00b6e44d5ed8a796d 5473 Packages
+1ab303fcf5737f5300f55048444ef636 9774 Packages
 
-4e81cb6a6f63548a4da7932ad2099691 1880 Packages.bz2
+5a792f4f14d69bcc18f83e9eac5a04c4 3015 Packages.bz2
