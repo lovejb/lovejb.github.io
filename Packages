@@ -185,6 +185,7 @@ Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nh
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Icon: file:///Applications/Appvn.app/AppIcon57x57.png
 Name: Appvn (iOS6-11)
+Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
 Size: 34107850	
 MD5sum: 52cf638e796040808ba2363d5db370c7   
 
