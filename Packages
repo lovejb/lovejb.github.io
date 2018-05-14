@@ -237,7 +237,7 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 6.0)
-Filename: ./debs/com.aidoo.memsearch_1.1_iphoneos-arm.deb
+Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
 Size: 2260752
 MD5sum: a42267a43fab88cb62329bf066781a18  
 
