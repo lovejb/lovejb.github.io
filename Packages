@@ -147,7 +147,7 @@ Size:3484372
 MD5sum: 075857455d76ff06dcdfb5b7565b3520  
 
 Package: com.lovejb.flex3beta3
-Name: Flex 3 iOS 11 - LoveJB
+Name: Flex 3 (iOS10.3-11)
 Version: 1:3~Beta46
 Architecture: iphoneos-arm
 Description: Flex3 - Hỗ trợ IOS10.3.x và IOS11
@@ -161,7 +161,7 @@ Size: 18766902
 MD5sum: 9195a9ce6abe1f6605a2c57aff2c4569 
 
 Package: com.lovejb.appsyncunified
-Name: AppSync Unified - LoveJB
+Name: AppSync Unified
 Version: 9.0
 Architecture: iphoneos-arm
 Description: Cho phép cài đặt ứng dụng từ file IPA bên ngoài vào Smatphone!!!
@@ -216,7 +216,7 @@ Size: 5808
 MD5sum: 1a1b710914ace7a274b6d735ef89b7ae  
 
 Package: com.lovejb.netspeed
-Name: NetSpeed - LoveJB
+Name: NetSpeed
 Version: 0.1-1+debug
 Architecture: iphoneos-arm
 Description: Hiển thị tốc độ truy cập dữ liệu . Khả dụng thời gian thực với WiFi và 4G
@@ -238,8 +238,9 @@ Author: Aidoo.TK <aidoo.tk@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 6.0)
 Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
-Size: 2260752
-MD5sum: a42267a43fab88cb62329bf066781a18  
+Icon: file:///Applications/MemSearch.app/AppIcon57x57@2x.png
+Size: 2245778
+MD5sum: 06ace2d83cec87455150df8244db131e 
 
 Package: com.vsz.redeb
 Name: redeb
