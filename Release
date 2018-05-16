@@ -1,23 +1,16 @@
 Origin: i Lve JB 👷
-
 Label:  LveJB
-
 Suite: stable
-
 Version: 1.0
-
-Codename: LveJB
-
+Codename: LoveJB
 Architecture: iphoneos-arm
-
 Components: main
-
 Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Luôn sưu tầm Tweak hay và tốt nhất cho IOS của bạn!! 
 
 MD5sum:
 
-180c663e05a77515a88416055cf18104  
-10348	Packages
+2990a620f5675be6016f0479d638bbd7  
+10290	Packages
 
-93f9a973ac5a673d5c1904727c67a925  
-3310	Packages.bz2
+953f319392d83e21fe57d16550e74a1c  
+3294	Packages.bz2

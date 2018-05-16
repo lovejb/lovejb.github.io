@@ -6,7 +6,7 @@ Description: Bản Tiếng Việt cho Activator
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, libactivator (>= 1.8.3),firmware (<= 11.0)
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
 Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
 Size: 9204	
 MD5sum: f66752b1c7027ad1b87a1a0891dcad4a
@@ -32,7 +32,7 @@ Description: Bảo mật Ứng dụng, Cài đặt ... với TouchID.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Elias Limneos <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin,firmware (<= 11.0)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin
 Filename: ./debs/com.lovejb.bioprotect_2.1-295_iphoneos-arm.deb
 Size: 635546	
 MD5sum: 2eb017a8e0c527e6be6f85709db32f1d  
@@ -46,7 +46,7 @@ Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Creatix,LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (<= 11.0),com.a3tweaks.flipswitch
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader,com.a3tweaks.flipswitch
 Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
 Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
 Size: 975048	
