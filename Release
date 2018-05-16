@@ -1,12 +1,12 @@
 Origin: i Lve JB 👷
 
-Label:  LoveJB
+Label:  LveJB
 
 Suite: stable
 
 Version: 1.0
 
-Codename: LoveJB
+Codename: LveJB
 
 Architecture: iphoneos-arm
 
@@ -16,8 +16,8 @@ Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Luôn sưu tầm Twea
 
 MD5sum:
 
-07769e0a3a3ff0aa046de7c67f1fb327  
-10766	Packages
+180c663e05a77515a88416055cf18104  
+10348	Packages
 
-77306ede3dd10bd223670be7bf4a1dc1  
-3406	Packages.bz2
+93f9a973ac5a673d5c1904727c67a925  
+3310	Packages.bz2

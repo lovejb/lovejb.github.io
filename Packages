@@ -6,7 +6,7 @@ Description: Bản Tiếng Việt cho Activator
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Depends: mobilesubstrate, libactivator (>= 1.8.3),firmware (<= 11.0)
 Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
 Size: 9204	
 MD5sum: f66752b1c7027ad1b87a1a0891dcad4a
@@ -28,15 +28,15 @@ Package: com.lovejb.bioprotect
 Name: BioProtect
 Version: 2.1-295
 Architecture: iphoneos-arm
-Description: Bảo mật Ứng dụng, Cài đặt ... với TouchID. 
+Description: Bảo mật Ứng dụng, Cài đặt ... với TouchID.
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Elias Limneos <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin,firmware (<= 11.0)
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/Icon.png
-MD5sum: 1b7b9341297f9098b4c8e2cdc5bcb298
-Size: 635532
 Filename: ./debs/com.lovejb.bioprotect_2.1-295_iphoneos-arm.deb
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Size: 635546	
+MD5sum: 2eb017a8e0c527e6be6f85709db32f1d  
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
 
 Package: com.lovejb.maize10.3.x
 Name: Maize (iOS 10.3.x) - LoveJB
@@ -46,7 +46,7 @@ Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Creatix,LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (<= 11.0),com.a3tweaks.flipswitch
 Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
 Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
 Size: 975048	
@@ -175,19 +175,18 @@ Size: 37744
 MD5sum: 3a77de7fdca129a23e37446f0de5a81c  
 
 Package: com.lovejb.appvn
+Name: Appvn (iOS7-11)
 Version: 5.2.0
 Architecture: iphoneos-arm
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Depends: firmware (>= 6.0),com.lovejb.ringtonespatch, com.lovejb.appsyncunified
-Conflicts: com.appvn82, vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified, vn.gsm.appsync82
-Section: Applications
-Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices. Hỗ trợ thêm IOS10.3.x và IOS11
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Icon: file:///Applications/Appvn.app/AppIcon57x57.png
-Name: Appvn (iOS6-11)
+Section: Applications
+Depends: firmware (>= 7.0)
 Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Size: 34107850	
-MD5sum: 52cf638e796040808ba2363d5db370c7   
+Size: 34107856	
+MD5sum: deb5c6f2c288493838c352bb696a6606  
+Icon: file:///Applications/Appvn.app/AppIcon57x57.png
 
 Package: com.lovejb.ringtonespatch
 Name: Ringtones Patch
