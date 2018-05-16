@@ -1,15 +1,15 @@
 Package: com.lovejb.activatorviet
-Name: Activator VietSub
+Name: Activator Viet
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Bản Tiếng Việt cho Activator
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: mobilesubstrate, libactivator (>= 1.8.3),firmware (<= 11.0)
-MD5sum: 72a25e51cda7576a2cdf2495e3432691
-Size: 9200
-Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, libactivator (>= 1.8.3)
+Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
+Size: 9204	
+MD5sum: f66752b1c7027ad1b87a1a0891dcad4a
 
 Package: com.lovejb.apppercent
 Name: App Percent
