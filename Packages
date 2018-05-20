@@ -173,7 +173,7 @@ Description: Cho phép cài đặt ứng dụng từ file IPA bên ngoài vào S
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Author: Linus Yang, Karen／明美
 Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<=11.1.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
 Size: 37744	
@@ -286,3 +286,20 @@ Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.squareicon_1.0_iphoneos-arm.deb
 Size:561580	
 MD5:cd3c25c4f19a4e16ddc467e6381f4ae3  
+
+
+Package: com.lovejb.folderenhancer2
+Name: FolderEnhancer (iOS 7/8/9/10)
+Version: 2.13.0.2
+Architecture: iphoneos-arm
+Description: Improves and extends iOS folders.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer2/
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 7.0), firmware (<< 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon@2x.png
+Conflicts: jp.ashikase.folderenhancer, kr.slak.sevenfolder4x4, com.yllier.foldercloser
+Filename: ./debs/com.lovejb.folderenhancer2_2.13.0.2_iphoneos-arm.deb
+Size:129236	
+MD5:c400f63e7a4a2eb3a87a4ceb83ebea08  
+
