@@ -284,9 +284,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.squareicon_1.0_iphoneos-arm.deb
-Size:561580	
-MD5:cd3c25c4f19a4e16ddc467e6381f4ae3  
-
+Size: 561580	
+MD5: cd3c25c4f19a4e16ddc467e6381f4ae3  
 
 Package: com.lovejb.folderenhancer2
 Name: FolderEnhancer (iOS 7/8/9/10)
