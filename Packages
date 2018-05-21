@@ -1,265 +1,183 @@
 Package: com.lovejb.activatorviet
-Name: Activator Viet
+Name: Activator VietSub
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Bản Tiếng Việt cho Activator
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
 Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
-Size: 9204	
-MD5sum: f66752b1c7027ad1b87a1a0891dcad4a
+Size:9208	
+MD5:eff5206f8972be180b9e72dd33f6f702  
 
 Package: com.lovejb.apppercent
 Name: App Percent
 Version: 2.0.0
 Architecture: iphoneos-arm
 Description: Hiển thị % khi Tải ứng dụng và Thông báo tải từ Appstore
-Author: pxcex <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-MD5sum: 10f6de181c27592c390168fbb70af89c
-Size: 23038
 Filename: ./debs/com.lovejb.apppercent_2.0.0_iphoneos-arm.deb
+Size:23052	
+MD5:2ee83bc3c275e13219afefef0f55a0f3  
+
+Package: com.lovejb.appsyncunified
+Name: AppSync Unified - LoveJB
+Version: 9.0
+Architecture: iphoneos-arm
+Description: Hỗ trợ cài đặt applications bên thứ 3 vào thiết bị đã Jaibreak.
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
+Size:37722	
+MD5:f6d78b048cbfd5dbc6c59e75ab7cf53f  
+
+Package: com.lovejb.appvn
+Name: Appvn (IOS6-11)
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: firmware (>= 7.0), com.lovejb.ringtonepatch, com.lovejb.appsyncunifier
+Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
+Size:34107902	
+MD5:5e8657ac171e97f4e27f78e9ba9ea450  
+
+Package: com.lovejb.ringtonepatch
+Name: Ringtones Patch - LoveJB
+Version: 2.0-11
+Architecture: iphoneos-arm
+Description: Hỗ trợ Appvn cài nhạc chuông cho thiết bị.
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Ulitifies
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
+Size:22006	
+MD5:4d3ece174e20940f30613782c96e2611  
 
 Package: com.lovejb.bioprotect
 Name: BioProtect
 Version: 2.1-295
 Architecture: iphoneos-arm
 Description: Bảo mật Ứng dụng, Cài đặt ... với TouchID.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bioprotect
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Elias Limneos <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin
 Filename: ./debs/com.lovejb.bioprotect_2.1-295_iphoneos-arm.deb
-Size: 635546	
-MD5sum: 2eb017a8e0c527e6be6f85709db32f1d  
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bioprotect
+Size:635538	
+MD5:8d52d0d44b1e659298d07d8f6e7829ae  
 
-Package: com.lovejb.maize10.3.x
-Name: Maize (iOS 10.3.x) - LoveJB
-Version: 1.3.1-01
-Architecture: iphoneos-arm
-Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Creatix,LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader,com.a3tweaks.flipswitch
-Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
-Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
-Size: 975048	
-MD5sum:546291861b4f2d2aeda662e7d5d4a732 
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.maize10.3.x
-
-Package: com.lovejb.gineso
-Name: Gineso (iOS10-11) - LoveJB
-Version: 1.0.3
-Architecture: iphoneos-arm
-Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Fonts for Anemone
-Depends: firmware (>= 10), mobilesubstrate,com.anemonetheming.anemone
-Filename: ./debs/com.lovejb.gineso_1.0.3_iphoneos-arm.deb
-Size: 12366602	
-MD5sum: 159668f462c3dfebcd003eb09ed1e5fe  
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gineso
-
-Package: com.lovejb.flotus
-Name: Flotus
-Version: 1.0b3
-Architecture: iphoneos-arm
-Description: Bo tròn Status và Tạo màu nền. Fix by Nguyễn Văn Hà.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Justin Petkovic,LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.lovejb.flotus_1.0b3_iphoneos-arm.deb
-Size: 28932	
-MD5sum: 107be85fd14ef38f3e21c792d4fdf48d  
-
-Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Name: ClassicFolders 2
 Package: com.lovejb.classicfolders2
-Conflicts: org.coolstar.classicfolders
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Section: Tweaks
+Name: ClassicFolders 2
 Version: 2.0.3
 Architecture: iphoneos-arm
 Description: Mang kiểu dáng Folder cổ IOS6 đến với IOS10. Bản Crack bởi Julioverne
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Icon: file:///Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@2x.png
-MD5sum: 2fd3560f07e3bfcdc28c2f4fe2f676be
-Size: 2416406
+Conflicts: org.coolstar.classicfolders
 Filename: ./debs/com.lovejb.classicfolders2_2.0.3_iphoneos-arm.deb
-
-Package: com.lovejb.lebly
-Name: Lebly (iOS10-11) - LoveJB
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Font November2 huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Fonts for Anemone
-Depends: firmware (>= 10), mobilesubstrate
-Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
-Size: 13866242	
-MD5sum: 3c8a3d9c6ca3638b4a48f7e6141897dd  
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly
-
-Package: com.lovejb.texgyreadventor
-Name: Tex Gyre Adventor (iOS9) - LoveJB
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
-Section: Fonts for Anemone
-Depends: firmware (>= 9), mobilesubstrate
-Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
-Size: 9312732	
-MD5sum: 123e19ff9946c91c46dd7aa31a027c0f  
-
-
-Package: com.lovejb.november2
-Name: November2 (iOS9) - LoveJB
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Font November2 huyền thoại. Được mod lại full Việt bởi Vũ Quang.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
-Section: Fonts for Anemone
-Depends: mobilesubstrate,firmware (>= 9.0)
-Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
-Size: 5490040	
-MD5sum: 61f0f3f518a639e83e38d35309ac1d6e  
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.november2
-
-Package: com.lovejb.crackicleaner
-Name: Crack iCleaner Pro
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Crack iCleaner Pro !!! Đăng ký thiết bị với iCleaner Pro. Loại bỏ Quảng cáo, thêm togger vào Activator và ControlCenter để đẩy nhanh thao tác dọn dẹp thiết bị.
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
-Size:3484372	
-MD5sum: 075857455d76ff06dcdfb5b7565b3520  
+Size:2416376	
+MD5:23ac9d21cc19ba88bbe0fc81173608dd  
 
 Package: com.lovejb.flex3beta3
-Name: Flex 3 (iOS10.3-11)
+Name: Flex 3 Beta iOS 11 - LoveJB
 Version: 1:3~Beta46
 Architecture: iphoneos-arm
-Description: Flex3 - Hỗ trợ IOS10.3.x và IOS11
+Description: Develop your own tweaks and share them on the Flex Community Cloud
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: John Coates
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 10.3), com.rpetrich.rocketbootstrap
+Section: Supports iOS 11
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
 Filename: ./debs/com.lovejb.flex3beta3_1:3~Beta46_iphoneos-arm.deb
-Size: 18766902	
-MD5sum: 9195a9ce6abe1f6605a2c57aff2c4569 
+Size:18766826	
+MD5:95d348e121fd501c79048c9f955749ec  
 
-Package: com.lovejb.appsyncunified
-Name: AppSync Unified
-Version: 9.0
+Package: com.lovejb.flotus
+Name: Flotus - LoveJB
+Version: 1.0b3
 Architecture: iphoneos-arm
-Description: Cho phép cài đặt ứng dụng từ file IPA bên ngoài vào Smatphone!!!
+Description: Bo tròn Status và Tạo màu nền. Fix by Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.flotus
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Linus Yang, Karen／明美
 Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<=11.1.2)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
-Size: 37744	
-MD5sum: 3a77de7fdca129a23e37446f0de5a81c  
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.lovejb.flotus_1.0b3_iphoneos-arm.deb
+Size:28924	
+MD5:c52d5b1381835f387ffc49ed8752f8b2  
 
-Package: com.lovejb.appvn
-Name: Appvn (iOS7-11)
-Version: 5.2.0
+Package: com.lovejb.folderenhancer2
+Name: FolderEnhancer (iOS 7/8/9/10)
+Version: 2.13.0.2
 Architecture: iphoneos-arm
-Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Description: Improves and extends iOS folders.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.folderenhancer2
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Size: 34107856	
-MD5sum: deb5c6f2c288493838c352bb696a6606  
-Icon: file:///Applications/Appvn.app/AppIcon57x57.png
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
-
-Package: com.lovejb.ringtonespatch
-Name: Ringtones Patch
-Version: 2.0-11
-Architecture: iphoneos-arm
-Description: Bổ xung Nhạc chuông cho Thiết bị của bạn
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: @runaway518
-Section: Utilities
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
-Size: 22020	
-MD5sum: d7ba0c2602cc17156b34291503fab50c  
-
-Package: com.lovejb.slidetounlock10
-Name: Slide To Unlock (iOS10)
-Version: 0.0.2
-Architecture: iphoneos-arm
-Description: Mang "Slide to Unlock" trên IOS9 trở lại với iOS 10. 
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: fidele007
 Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./debs/com.lovejb.slidetounlock10_0.0.2_iphoneos-arm.deb
-Size: 5808	
-MD5sum: 1a1b710914ace7a274b6d735ef89b7ae  
+Depends: firmware (>= 7.0), firmware (<< 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon@2x.png
+Conflicts: jp.ashikase.folderenhancer, kr.slak.sevenfolder4x4, com.yllier.foldercloser
+Filename: ./debs/com.lovejb.folderenhancer2_2.13.0.2_iphoneos-arm.deb
+Size:129222	
+MD5:83ef1be5ce1d73bfcd240f6c3a8656e0  
 
-Package: com.lovejb.netspeed
-Name: NetSpeed
-Version: 0.1-1+debug
+Package: com.lovejb.maize10.3.x
+Name: Maize (IOS 10.3.x) - LoveJB - LoveJB
+Version: 1.3.1-01
 Architecture: iphoneos-arm
-Description: Hiển thị tốc độ truy cập dữ liệu . Khả dụng thời gian thực với WiFi và 4G
+Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.maize10.3.x
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: julioverne,TheTiger
 Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.netspeed_0.1-1+debug_iphoneos-arm.deb
-Size: 24408	
-MD5sum: f7644f9990473fcd3fabe2313a5bd5fe  
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.netspeed
-
-Package: com.lovejb.gamegem
-Name: GameGem
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Fix for iOS10.3.x . 👉 Vào filza /Applications/Memsearch 👉 Xoá _MemSearch 👉 Đổi tên MemSearch thành _MemSearch. 👉Khởi động lại
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Aidoo.TK <aidoo.tk@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 6.0)
-Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
-Icon: file:///Applications/MemSearch.app/AppIcon57x57@2x.png
-Size: 2245778
-MD5sum: 06ace2d83cec87455150df8244db131e 
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
+Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
+Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
+Size:975050	
+MD5:625896c55bfed9b7cef0d9a3dccc48f1  
 
 Package: com.vsz.redeb
 Name: redeb
 Version: 1.0.3
 Architecture: iphoneos-arm
-Description: Tweak dùng để backup file deb đã tải từu Cydia!!!
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :))
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: T.Herak <50dc856b@opayq.com>
 Section: Utilities
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
 Filename: ./debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
-Size: 3558	
-MD5sum: cbd95c7ebc7d295e2a03371ca61bb525  
+Size:3544	
+MD5:b4aa249c8766d740d78c163af8b1700d  
+
+Package: com.lovejb.netspeed
+Name: NetSpeed - LoveJB
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Description: Suspension frame display speed add WiFi and 4G
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.netspeed
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.lovejb.netspeed_0.1-1+debug_iphoneos-arm.deb
+Size:24402	
+MD5:1909ee746583aa76e9d4129737813dc0  
+
+Package: com.lovejb.slidetounlock10
+Name: SlideToUnlock10 - LoveJB - LoveJB
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Mang "Slide to Unlock " từ iOS9 trở lại với iOS10
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: 10 iOS
+Depends: mobilesubstrate
+Filename: ./debs/com.lovejb.slidetounlock10_0.0.2_iphoneos-arm.deb
+Size:5820	
+MD5:ce097c909fe59377300264d9d43629dd  
 
 Package: com.lovejb.flaticonlite
 Name: Opennotifier Flat Icon Pack (Lite)
@@ -271,8 +189,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.flaticonlite_1.0_iphoneos-arm.deb
-Size:1314318	
-MD5:86c205fd70d20cedafbc0f656222f2d5  
+Size:1314324	
+MD5:e93fb52ba8d16821962109f9bfac6b29  
 
 Package: com.lovejb.squareicon
 Name: Opennotifier Square Icon
@@ -284,21 +202,83 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.squareicon_1.0_iphoneos-arm.deb
-Size: 561580	
-MD5: cd3c25c4f19a4e16ddc467e6381f4ae3  
+Size:561572	
+MD5:db9527d0a8a3b80615471cd531f79b93  
 
-Package: com.lovejb.folderenhancer2
-Name: FolderEnhancer (iOS 7/8/9/10)
-Version: 2.13.0.2
+Package: com.lovejb.gamegem
+Name: GameGem
+Version: 1.1
 Architecture: iphoneos-arm
-Description: Improves and extends iOS folders.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/user_depictions/ashikase/jp.ashikase.folderenhancer2/
+Description: Cheat engine for ios. Support iPhone and iPad with iOS 6 ~ 9.x . Support mode: accurate , fuzzy, accurate x fuzzy. Support data type: Word, DWord, Float. Support data locking and batch modify.Speed Optimize now include, support cocos2d game engine. Tutorials: http://GameGem.org/, AD include .
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 7.0), firmware (<< 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
-Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon@2x.png
-Conflicts: jp.ashikase.folderenhancer, kr.slak.sevenfolder4x4, com.yllier.foldercloser
-Filename: ./debs/com.lovejb.folderenhancer2_2.13.0.2_iphoneos-arm.deb
-Size:129236	
-MD5:c400f63e7a4a2eb3a87a4ceb83ebea08  
+Section: Utilities
+Depends: firmware (>= 6.0)
+Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
+Size:2245742	
+MD5:3a9c5708777495b9ab219500840289df  
 
+Package: com.lovejb.gineso
+Name: Gineso (IOS10) - LoveJB
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gineso
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.gineso_1.0.3_iphoneos-arm.deb
+Size:12366604	
+MD5:1bf9c230038dbf73e8e7e0837b79cac4  
+
+Package: com.lovejb.lebly
+Name: Lebly (IOS10-11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font November2 huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
+Size:13866130	
+MD5:21404bc5052e44c8506cc6ea4759720d  
+
+Package: com.lovejb.november2
+Name: November2 (IOS9) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font November2 huyền thoại. Được mod lại full Việt bởi Vũ Quang.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.november2
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
+Size:5490040	
+MD5:dcb775e915c747ad6b144f45b89c015b  
+
+Package: com.lovejb.texgyreadventor
+Name: Tex Gyre Adventor (IOS9) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate
+Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
+Size:9312758	
+MD5:2100243c48fc92534afb30aff8783c00  
+
+Package: com.lovejb.crackicleaner
+Name: Crack iCleaner
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Crack iCleaner
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.crackicleaner
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
+Size:3484292	
+MD5:429ce2d731f48150df14561adcdc7735  
