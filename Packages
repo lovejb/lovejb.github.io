@@ -36,7 +36,7 @@ Size:37722
 MD5:f6d78b048cbfd5dbc6c59e75ab7cf53f  
 
 Package: com.lovejb.appvn
-Name: Appvn (IOS6-11)
+Name: Appvn (iOS7-11)
 Version: 5.2.0
 Architecture: iphoneos-arm
 Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
@@ -88,12 +88,12 @@ Size:2416376
 MD5:23ac9d21cc19ba88bbe0fc81173608dd  
 
 Package: com.lovejb.flex3beta3
-Name: Flex 3 Beta iOS 11 - LoveJB
+Name: Flex 3 Beta iOS 11
 Version: 1:3~Beta46
 Architecture: iphoneos-arm
 Description: Develop your own tweaks and share them on the Flex Community Cloud
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Supports iOS 11
+Section: Applications
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
 Filename: ./debs/com.lovejb.flex3beta3_1:3~Beta46_iphoneos-arm.deb
@@ -114,7 +114,7 @@ Size:28924
 MD5:c52d5b1381835f387ffc49ed8752f8b2  
 
 Package: com.lovejb.folderenhancer2
-Name: FolderEnhancer (iOS 7/8/9/10)
+Name: FolderEnhancer (iOS 7-10)
 Version: 2.13.0.2
 Architecture: iphoneos-arm
 Description: Improves and extends iOS folders.
@@ -129,7 +129,7 @@ Size:129222
 MD5:83ef1be5ce1d73bfcd240f6c3a8656e0  
 
 Package: com.lovejb.maize10.3.x
-Name: Maize (IOS 10.3.x) - LoveJB - LoveJB
+Name: Maize (IOS 10.3.x) - LoveJB
 Version: 1.3.1-01
 Architecture: iphoneos-arm
 Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
@@ -168,29 +168,16 @@ Size:24402
 MD5:1909ee746583aa76e9d4129737813dc0  
 
 Package: com.lovejb.slidetounlock10
-Name: SlideToUnlock10 - LoveJB - LoveJB
+Name: SlideToUnlock10
 Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Mang "Slide to Unlock " từ iOS9 trở lại với iOS10
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: 10 iOS
+Section: Tweaks
 Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.slidetounlock10_0.0.2_iphoneos-arm.deb
 Size:5820	
-MD5:ce097c909fe59377300264d9d43629dd  
-
-Package: com.lovejb.flaticonlite
-Name: Opennotifier Flat Icon Pack (Lite)
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Bản thu nhỏ của Flat icon Pack
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.flaticonlite
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Opennotifier
-Depends: mobilesubstrate
-Filename: ./debs/com.lovejb.flaticonlite_1.0_iphoneos-arm.deb
-Size:1314324	
-MD5:e93fb52ba8d16821962109f9bfac6b29  
+MD5:ce097c909fe59377300264d9d43629dd    
 
 Package: com.lovejb.squareicon
 Name: Opennotifier Square Icon
@@ -212,7 +199,7 @@ Architecture: iphoneos-arm
 Description: Cheat engine for ios. Support iPhone and iPad with iOS 6 ~ 9.x . Support mode: accurate , fuzzy, accurate x fuzzy. Support data type: Word, DWord, Float. Support data locking and batch modify.Speed Optimize now include, support cocos2d game engine. Tutorials: http://GameGem.org/, AD include .
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
+Section: Applications
 Depends: firmware (>= 6.0)
 Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
 Size:2245742	
@@ -282,3 +269,16 @@ Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4),
 Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
 Size:3484292	
 MD5:429ce2d731f48150df14561adcdc7735  
+
+Package: com.lovejb.flaticonlite
+Name: Opennotifier Flat Icon Pack (Lite)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bản thu nhỏ của Flat icon Pack
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.flaticonlite
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Opennotifier
+Depends: mobilesubstrate
+Filename: ./debs/com.lovejb.flaticonlite_1.0_iphoneos-arm.deb
+Size:1314342	
+MD5:0ea13a071ab9cea9680a6f1a3e13a542  
