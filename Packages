@@ -8,8 +8,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
-Size:9214	
-MD5:2193aba2a27c4e9f9adfb541c9492edf  
+Size: 9214
+MD5: 2193aba2a27c4e9f9adfb541c9492edf  
 Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
 
 Package: com.lovejb.apppercent
@@ -22,8 +22,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Size:23058	
-MD5:c386e383fb2f7b1687e7bb128eefa6c5  
+Size: 23058
+MD5: c386e383fb2f7b1687e7bb128eefa6c5  
 Filename: ./debs/com.lovejb.apppercent_2.0.0_iphoneos-arm.deb
 
 Package: com.lovejb.appsyncunified
@@ -37,8 +37,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Size:37750	
-MD5:ecfe7f12b6e6f86447e16340b6a9714d  
+Size: 37750
+MD5: ecfe7f12b6e6f86447e16340b6a9714d  
 Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
 
 Package: com.lovejb.appvn
@@ -51,8 +51,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
-Size:34107914
-MD5:391b0cd28752229bcff400a17ef5aedc  
+Size: 34107914
+MD5: 391b0cd28752229bcff400a17ef5aedc  
 Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
 
 Package: com.lovejb.bioprotect
@@ -65,8 +65,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), net.limneos.libbulletin, firmware (<= 11.0)
-Size:635548	
-MD5:38771ce499e33ff9b4d2dacc0256b097  
+Size: 635548	
+MD5: 38771ce499e33ff9b4d2dacc0256b097  
 Filename: ./debs/com.lovejb.bioprotect_2.1-295_iphoneos-arm.deb
 
 Package: com.lovejb.classicfolders2
@@ -81,8 +81,8 @@ Section: Tweaks
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (<= 11.0)
 Icon: file:///Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@2x.png
 Conflicts: org.coolstar.classicfolders
-Size:2416390	
-MD5:25874f6b9aa9a436761af2d1df082551  
+Size: 2416390
+MD5: 25874f6b9aa9a436761af2d1df082551  
 Filename: ./debs/com.lovejb.classicfolders2_2.0.3_iphoneos-arm.deb
 
 Package: com.lovejb.crackicleaner
@@ -95,8 +95,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Utilities
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Size:3484308	
-MD5:83d122d1b34e1a53fa4165f389f0aed3  
+Size: 3484308
+MD5: 83d122d1b34e1a53fa4165f389f0aed3  
 Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
 
 Package: com.lovejb.flex3beta3
@@ -110,7 +110,7 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3
-Size:18766828	
+Size: 18766828
 MD5:37dd7d8d3d96690d3014523087e2298e  
 Filename: ./debs/com.lovejb.flex3beta3_1:3~Beta46_iphoneos-arm.deb
 
@@ -124,8 +124,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Size:28948	
-MD5:45eecba20b5b4b120685309422902767  
+Size: 28948
+MD5: 45eecba20b5b4b120685309422902767 
 Filename: ./debs/com.lovejb.flotus_1.0b3_iphoneos-arm.deb
 
 Package: com.lovejb.folderenhancer2
@@ -140,8 +140,8 @@ Section: Tweaks
 Depends: firmware (>= 7.0), firmware (<< 11.0), mobilesubstrate, preferenceloader, com.chpwn.iconsupport
 Icon: file:///Library/PreferenceBundles/FolderEnhancer.bundle/icon@2x.png
 Conflicts: jp.ashikase.folderenhancer, kr.slak.sevenfolder4x4, com.yllier.foldercloser
-Size:129260	
-MD5:6df091aa29835282c736cf61779abee7  
+Size: 129260
+MD5: 6df091aa29835282c736cf61779abee7  
 Filename: ./debs/com.lovejb.folderenhancer2_2.13.0.2_iphoneos-arm.deb
 
 Package: com.lovejb.gamegem
@@ -154,8 +154,8 @@ Author: Aidoo.TK
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: firmware (>= 6.0), firmware (<= 11.0)
-Size:2245756	
-MD5:6794ee515e02061134cb570261ebaf3f  
+Size: 2245756
+MD5: 6794ee515e02061134cb570261ebaf3f  
 Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
 
 Package: com.lovejb.gineso
@@ -168,8 +168,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Font for Anemone
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
-Size:12366622	
-MD5:25dd8c79d0b166f631257fa88b699e64  
+Size: 12366622
+MD5: 25dd8c79d0b166f631257fa88b699e64 
 Filename: ./debs/com.lovejb.gineso_1.0.3_iphoneos-arm.deb
 
 Package: com.lovejb.lebly
@@ -182,8 +182,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Font for Anemone
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
-Size:13866148	
-MD5:1f68b02f458066786f92456646cdaaa3  
+Size: 13866148
+MD5: 1f68b02f458066786f92456646cdaaa3  
 Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
 
 Package: com.lovejb.maize10.3.x
@@ -197,8 +197,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch, firmware (<= 11.0)
 Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
-Size:975078	
-MD5:5b51583fc85477139b0511c3e899854d  
+Size: 975078
+MD5: 5b51583fc85477139b0511c3e899854d  
 Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
 
 Package: com.lovejb.netspeed
@@ -211,8 +211,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, firmware (<= 11.0)
-Size:24428	
-MD5:00a6cf669d643af42cb288c0969f549b  
+Size: 24428
+MD5: 00a6cf669d643af42cb288c0969f549b  
 Filename: ./debs/com.lovejb.netspeed_0.1-1+debug_iphoneos-arm.deb
 
 Package: com.lovejb.november2
@@ -225,8 +225,8 @@ Author: Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Font for Anemone
 Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
-Size:5490068	
-MD5:f12f573e4c86edd9055296b999032878  
+Size: 5490068
+MD5: f12f573e4c86edd9055296b999032878  
 Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
 
 Package: com.lovejb.pandahelpervip
@@ -239,8 +239,8 @@ Author: aJBboo
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: mobilesubstrate
-Size:10613048	
-MD5:8097ab1c3573b86b70bb1a19989df50a  
+Size: 10613048
+MD5: 8097ab1c3573b86b70bb1a19989df50a 
 Filename: ./debs/com.lovejb.pandahelpervip_1.0.4k_iphoneos-arm.deb
 
 Package: com.lovejb.ringtonespatch
@@ -253,8 +253,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Ulitifies
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-Size:22038	
-MD5:e65741e1b6b58478514b4b943e0048b3  
+Size: 22038
+MD5: e65741e1b6b58478514b4b943e0048b3
 Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
 
 Package: com.lovejb.squareicon
@@ -267,8 +267,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
-Size:561610	
-MD5:feb1d0fac1e9c5e0fca61d906e002105  
+Size: 561610
+MD5: feb1d0fac1e9c5e0fca61d906e002105  
 Filename: ./debs/com.lovejb.squareicon_1.0_iphoneos-arm.deb
 
 Package: com.lovejb.slidetounlock10
@@ -281,8 +281,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.0)
-Size:5846	
-MD5:b5241e7ccafbdd20ddd11267a79d5941  
+Size: 5846
+MD5: b5241e7ccafbdd20ddd11267a79d5941  
 Filename: ./debs/com.lovejb.slidetounlock10_0.0.2_iphoneos-arm.deb
 
 Package: com.lovejb.texgyreadventor
@@ -295,8 +295,8 @@ Author: Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Font for Anemone
 Depends: firmware (>= 9.0), mobilesubstrate, com.anemonetheming.anemone, firmware (<= 10.0)
-Size:9312786	
-MD5:9b1c3d7a18e0cd086f97173b7dceb9cd  
+Size: 9312786
+MD5: 9b1c3d7a18e0cd086f97173b7dceb9cd  
 Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
 
 Package: com.vsz.redeb
@@ -309,8 +309,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Utilities
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
-Size:3572	
-MD5:2ab2fece12646a76ddd8817198955ecc  
+Size: 3572
+MD5: 2ab2fece12646a76ddd8817198955ecc  
 Filename: ./debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
 
 Package: com.lovejb.pullover
@@ -325,8 +325,8 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, libactivator, applist
 Icon: file:///Library/PreferenceBundles/PullOverPreferences.bundle/icon-small@2x.png
 Conflicts: com.reddoorendeavors.pullover10
-Size:2863980	
-MD5:138816696b657b9a4267400363333010  
+Size: 2863980
+MD5: 138816696b657b9a4267400363333010  
 Filename: ./debs/com.lovejb.pullover_2.0.5.1-1_iphoneos-arm.deb
 
 Package: com.lovejb.flaticonlite
@@ -339,8 +339,8 @@ Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
-Size:1314334	
-MD5:bfe3f712f9f88bee7ff85fc7fb4ec492  
+Size: 1314334	
+MD5: bfe3f712f9f88bee7ff85fc7fb4ec492  
 Filename: ./debs/com.lovejb.flaticonlite_1.0_iphoneos-arm.deb
 
 Package: com.antique.slimmerbanners
@@ -353,6 +353,6 @@ Author: Antique
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
-Size:11694	
-MD5:78d1f44e8a18abef443a7a04f3ba622e  
+Size: 11694
+MD5: 78d1f44e8a18abef443a7a04f3ba622e  
 Filename: ./debs/com.antique.slimmerbanners_1.0_iphoneos-arm.deb
