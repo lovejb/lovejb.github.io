@@ -3,7 +3,6 @@ Name: Activator VietSub
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Bản Tiếng Việt cho Activator
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.activatorviet
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
