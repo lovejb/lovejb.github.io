@@ -245,7 +245,7 @@ Architecture: iphoneos-arm
 Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: Vĩ Quang <nguyenvanha9xyz@gmail.com>
+Author: Vũ Quang <nguyenvanha9xyz@gmail.com>
 Section: Font for Anemone
 Depends: firmware (>= 10), mobilesubstrate
 Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
@@ -277,8 +277,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Utilities
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
-Size:3484326	
-MD5:f2a28e57123a10603f4153f436d53e30  
+Size: 3484326
+MD5: f2a28e57123a10603f4153f436d53e30  
 
 Package: com.lovejb.pandahelpervip
 Name: Panda Helper VIP
@@ -291,8 +291,8 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.pandahelpervip_1.0.4k_iphoneos-arm.deb
-Size:10613048	
-MD5:35363982b98cbeb1bd40f42b4cd66e1e  
+Size: 10613048	
+MD5: 35363982b98cbeb1bd40f42b4cd66e1e  
 
 Package: com.lovejb.pullover
 Name: PullOver10 - Crack
@@ -307,8 +307,8 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, lib
 Icon: file:///Library/PreferenceBundles/PullOverPreferences.bundle/icon-small@2x.png
 Conflicts: com.reddoorendeavors.pullover10
 Filename: ./debs/com.lovejb.pullover_2.0.5.1-1_iphoneos-arm.deb
-Size:2863980	
-MD5:3743c123a86cd9f0f988bcf683927e24  
+Size: 2863980	
+MD5: 3743c123a86cd9f0f988bcf683927e24  
 
 Package: com.lovejb.appvn
 Name: Appvn (iOS7-11)
@@ -321,5 +321,20 @@ Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Applications
 Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
 Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Size:34107892	
-MD5:7fc2b6cdc19f71005662c8719a7a66a8  
+Size: 34107892
+MD5: 7fc2b6cdc19f71005662c8719a7a66a8  
+
+Package: com.lovejb.littlecc
+Name: LittleCC
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: A little control center for iOS 10.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.littlecc
+Author: g0ky
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: 10 iOS
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.antique.minicc, com.yourepo.iosmarkk.littlecc
+Filename: ./debs/com.lovejb.littlecc_0.0.5_iphoneos-arm.deb
+Size:7066	
+MD5:f445b2149a1dd8b59907f2d868b1652e  
