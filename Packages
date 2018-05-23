@@ -23,7 +23,7 @@ Size: 23052
 MD5: 2ee83bc3c275e13219afefef0f55a0f3  
 
 Package: com.lovejb.appsyncunified
-Name: AppSync Unified - LoveJB
+Name: AppSync Unified
 Version: 9.0
 Architecture: iphoneos-arm
 Description: Hỗ trợ cài đặt applications bên thứ 3 vào thiết bị đã Jaibreak.
@@ -33,23 +33,10 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
 Size: 37722
-MD5: f6d78b048cbfd5dbc6c59e75ab7cf53f  
-
-Package: com.lovejb.appvn
-Name: Appvn (iOS7-11)
-Version: 5.2.0
-Architecture: iphoneos-arm
-Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
-Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Size: 34107904
-MD5: 716f1d29525c559296e0f9fc534712b9  
+MD5: f6d78b048cbfd5dbc6c59e75ab7cf53f 
 
 Package: com.lovejb.ringtonespatch
-Name: Ringtones Patch - LoveJB
+Name: Ringtones Patch
 Version: 2.0-11
 Architecture: iphoneos-arm
 Description: Hỗ trợ Appvn cài nhạc chuông cho thiết bị.
@@ -263,20 +250,7 @@ Section: Font for Anemone
 Depends: firmware (>= 10), mobilesubstrate
 Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
 Size: 9312758
-MD5: 2100243c48fc92534afb30aff8783c00  
-
-Package: com.lovejb.crackicleaner
-Name: Crack iCleaner
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Crack iCleaner Pro
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
-Size: 3484292
-MD5: 429ce2d731f48150df14561adcdc7735  
+MD5: 2100243c48fc92534afb30aff8783c00
 
 Package: com.lovejb.flaticonlite
 Name: Opennotifier Flat Icon Pack (Lite)
@@ -292,3 +266,61 @@ Filename: ./debs/com.lovejb.flaticonlite_1.0_iphoneos-arm.deb
 Size: 1314342
 MD5: 0ea13a071ab9cea9680a6f1a3e13a542  
 
+Package: com.lovejb.crackicleaner
+Name: Crack iCleaner
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Crack iCleaner
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.crackicleaner
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
+Size:3484326	
+MD5:f2a28e57123a10603f4153f436d53e30  
+
+Package: com.lovejb.appvn
+Name: Appvn (iOS7-11)
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
+Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
+Size:34107890	
+MD5:063ebf4153f2af4898bed8eb1b191ffd  
+
+Package: com.reddoorendeavors.pullover
+Name: PullOver10
+Version: 2.0.5.1-1
+Architecture: iphoneos-arm
+Description: A better way to multitask!
+Depiction: https://lovejb.github.io/description.html?id=com.reddoorendeavors.pullover
+Author: Will Smillie <williamfsmillie@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, libactivator, applist
+Icon: file:///Library/PreferenceBundles/PullOverPreferences.bundle/icon-small@2x.png
+Conflicts: com.reddoorendeavors.pullover10
+Filename: ./debs/com.reddoorendeavors.pullover_2.0.5.1-1_iphoneos-arm.deb
+Size:2863974	
+MD5:3ce1782cd23d5d5a46aca33acb3f8f33 
+
+
+Package: com.lovejb.pandahelpervip
+Name: Panda Helper VIP
+Version: 1.0.4k
+Architecture: iphoneos-arm
+Description: More Tweaked app and Hacked gamesMore stable and no need to worry revokedNo ads and better users experience By @Cydia_kiiMO And aJBbo enjoy.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.pandahelpervip
+Author: aJBboo
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: mobilesubstrate
+Filename: ./debs/com.lovejb.pandahelpervip_1.0.4k_iphoneos-arm.deb
+Size:10613048	
+MD5:35363982b98cbeb1bd40f42b4cd66e1e  
