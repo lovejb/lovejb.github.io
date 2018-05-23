@@ -280,37 +280,6 @@ Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
 Size:3484326	
 MD5:f2a28e57123a10603f4153f436d53e30  
 
-Package: com.lovejb.appvn
-Name: Appvn (iOS7-11)
-Version: 5.2.0
-Architecture: iphoneos-arm
-Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
-Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Size:34107890	
-MD5:063ebf4153f2af4898bed8eb1b191ffd  
-
-Package: com.reddoorendeavors.pullover
-Name: PullOver10
-Version: 2.0.5.1-1
-Architecture: iphoneos-arm
-Description: A better way to multitask!
-Depiction: https://lovejb.github.io/description.html?id=com.reddoorendeavors.pullover
-Author: Will Smillie <williamfsmillie@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, libactivator, applist
-Icon: file:///Library/PreferenceBundles/PullOverPreferences.bundle/icon-small@2x.png
-Conflicts: com.reddoorendeavors.pullover10
-Filename: ./debs/com.reddoorendeavors.pullover_2.0.5.1-1_iphoneos-arm.deb
-Size:2863974	
-MD5:3ce1782cd23d5d5a46aca33acb3f8f33 
-
-
 Package: com.lovejb.pandahelpervip
 Name: Panda Helper VIP
 Version: 1.0.4k
@@ -324,3 +293,33 @@ Depends: mobilesubstrate
 Filename: ./debs/com.lovejb.pandahelpervip_1.0.4k_iphoneos-arm.deb
 Size:10613048	
 MD5:35363982b98cbeb1bd40f42b4cd66e1e  
+
+Package: com.lovejb.pullover
+Name: PullOver10 - Crack
+Version: 2.0.5.1-1
+Architecture: iphoneos-arm
+Description: A better way to multitask!
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.pullover
+Author: Will Smillie <williamfsmillie@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, libactivator, applist
+Icon: file:///Library/PreferenceBundles/PullOverPreferences.bundle/icon-small@2x.png
+Conflicts: com.reddoorendeavors.pullover10
+Filename: ./debs/com.lovejb.pullover_2.0.5.1-1_iphoneos-arm.deb
+Size:2863980	
+MD5:3743c123a86cd9f0f988bcf683927e24  
+
+Package: com.lovejb.appvn
+Name: Appvn (iOS7-11)
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
+Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
+Size:34107892	
+MD5:7fc2b6cdc19f71005662c8719a7a66a8  
