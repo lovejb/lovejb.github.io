@@ -10,4 +10,6 @@ Section: Tweaks
 Depends: mobilesubstrate, libactivator (>= 1.8.3)
 Size: 9214
 MD5: 2193aba2a27c4e9f9adfb541c9492edf
+SHA1: 0a7a594de9f4b7f15f1445c2b3d40c9c66373510
+SHA256: dde65e488c0fc506c3c66bb58101dadf2a6d0c741dd8dd76c9135447e0e250de
 Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
