@@ -40,20 +40,6 @@ MD5: ecfe7f12b6e6f86447e16340b6a9714d
 Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 
-Package: com.lovejb.appvn
-Name: Appvn (iOS7-11)
-Version: 5.2.0
-Architecture: iphoneos-arm
-Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appvn
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 7.0), com.lovejb.ringtonespatch, com.lovejb.appsyncunified
-Size: 34107914
-MD5: 391b0cd28752229bcff400a17ef5aedc
-Filename: ./debs/com.lovejb.appvn_5.2.0_iphoneos-arm.deb
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-
 Package: com.lovejb.bioprotect
 Name: BioProtect
 Version: 2.1-295
