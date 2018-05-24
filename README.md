@@ -1,3 +1,3 @@
-# lovejb.github.io
+# http://lovejb.github.io
 HELLO!!!! 
 My name is LOVEJB
