@@ -82,7 +82,7 @@ SHA1:2ce0bd101b1d634df78ddf98dbd76ae187e52cbb
 SHA256:69517ca625d2382a0ac4b62549ea51a964af59879cff95328f6f95129a442e3d  
 
 Package: com.lovejb.folderenhancer2
-Name: FolderEnhancer (iOS 7/8/9/10)
+Name: FolderEnhancer (iOS7-10)
 Version: 2.13.0.2
 Architecture: iphoneos-arm
 Description: Improves and extends iOS folders.
@@ -391,3 +391,35 @@ MD5:0360eb01fec60aac1da4b966d5e9b796
 Filename: ./debs/com.lovejb.pullover_2.0.5.1-1_iphoneos-arm.deb
 SHA1:2a6ad9d2510d4655f9997a0d97e7b3fdca793c56  
 SHA256:9920463319afa742a3129f1bc80fc767589b5889b4435f3278c63e8f540fa721  
+
+Package: com.lovejb.lebly9
+Name: Lebly (iOS9) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Lebly Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly9
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (<= 10), mobilesubstrate, com.anemonetheming.anemone, firmware (>= 9.0)
+Size:8149628	
+MD5:16591cffb9d770b3c9063793deb060da  
+Filename: ./debs/com.lovejb.lebly9_1.0.0_iphoneos-arm.deb
+SHA1:a22677a801cf10bb6e72e4a03b13587d280b5a87  
+SHA256:6d96b5d347759712f235db8e19451ee2b24d7de3876a29036af17abfec9d124f  
+
+Package: com.lovejb.dekar
+Name: Dekar (iOS10-11) - LoveJB
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Font Dekar Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dekar
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:10281450	
+MD5:d1dbbb09168ebcc1125e534cd6c905cc  
+Filename: ./debs/com.lovejb.dekar_1.0.3_iphoneos-arm.deb
+SHA1:5eda694088672411b5336cfe0159c72eb5a2baba  
+SHA256:4c7f13b91e0840bd1a73fa9a07a18dc20f0fdeaadce637b6b69a8c1d6547ed33  
