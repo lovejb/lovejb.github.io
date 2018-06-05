@@ -408,18 +408,19 @@ Filename: ./debs/com.lovejb.lebly9_1.0.0_iphoneos-arm.deb
 SHA1:a22677a801cf10bb6e72e4a03b13587d280b5a87  
 SHA256:6d96b5d347759712f235db8e19451ee2b24d7de3876a29036af17abfec9d124f  
 
-Package: com.lovejb.dekar
-Name: Dekar (iOS10-11) - LoveJB
-Version: 1.0.3
+Package: com.lovejb.qda
+Name: QuickDo (Activator) VietSub
+Version: 3.9.4k
 Architecture: iphoneos-arm
-Description: Font Dekar Được mod lại full Việt bởi Nguyễn Văn Hà.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dekar
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS. Việt sub bởi Nguyễn Văn Hà
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.qda
+Author: Ma Jun
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
-Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
-Size:10281450	
-MD5:d1dbbb09168ebcc1125e534cd6c905cc  
-Filename: ./debs/com.lovejb.dekar_1.0.3_iphoneos-arm.deb
-SHA1:5eda694088672411b5336cfe0159c72eb5a2baba  
-SHA256:4c7f13b91e0840bd1a73fa9a07a18dc20f0fdeaadce637b6b69a8c1d6547ed33  
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Size:1736830	
+MD5:cfc54761e10cfc2ff7530c8a53e61ddf  
+SHA1:7ae26d5df8f18ec8863503c41478325afbb8f604  
+SHA256:461f6ff2bb3abef6eaa1717199b28a66898fcb8c60b876d96435f1457d949ddc  
