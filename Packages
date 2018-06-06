@@ -425,14 +425,18 @@ MD5:cfc54761e10cfc2ff7530c8a53e61ddf
 SHA1:7ae26d5df8f18ec8863503c41478325afbb8f604  
 SHA256:461f6ff2bb3abef6eaa1717199b28a66898fcb8c60b876d96435f1457d949ddc  
 
-Size:11282	
-MD5:5cc82da7d338d26cfd27201121cc66cd  
+Package: com.lovejb.cardump
+Name: CarDump - LoveJB
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bổ xung lệnh giải nén .car
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.cardump
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Terminal Support
+Depends: mobilesubstrate, dpkg (>= 1.14.25-8)
+Size:11390	
+MD5:c1084b8ae48d4661faa556d0d0072d71  
 Filename: ./debs/com.lovejb.cardump_1.0_iphoneos-arm.deb
-SHA1:af37358d1d10312def75f75b4ef9f49188b6cfb5  
-SHA256:6b600b5d49494a66fdd398d68a450980dffbda0d3725041e48c5cc3ca58daf9d  
-
-Size:11386	
-MD5:0e2e011d6994baeb514f55485de2ab82  
-Filename: ./debs/com.lovejb.cardump_1.0_iphoneos-arm.deb
-SHA1:f94bd161ae4469d44cc6d040f81a64aa4bad5530  
-SHA256:b48db8edf380ce95628d0bf4ee684d395d6665c0641678eda40e817f57f07b1c  
+SHA1:f9aa9e41af4d3dc7c11abea68b90fd7fb6232886  
+SHA256:2301afffef117c3d078ae06fa7b82ac6e23b2bd13ce56bc946189657439c4787  
