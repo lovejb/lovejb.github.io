@@ -460,3 +460,19 @@ MD5:1b7d231ae87f00272a0b2af31213cb23
 Filename: ./debs/com.lovejb.flex3-32b_3~EarlyAccess3_iphoneos-arm.deb
 SHA1:8ff536f3b5a0bac4996f66f512706d82949b1603  
 SHA256:aecf9d137274ea36e9af475602f88a0f66c28647f5c1686e9a397931d17e436f  
+
+Package: com.lovejb.dekar
+Name: Dekar (iOS10-11) - LoveJB
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Font Dekar Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dekar
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:10281452	
+MD5:3e35ba6ed3538970b26cbfb7343c9a5d  
+Filename: ./debs/com.lovejb.dekar_1.0.3_iphoneos-arm.deb
+SHA1:da37f14328857a5bdaa8a29bb6ebbf9e8c168f54  
+SHA256:22c4c09d3a4e3d99f106973062d1374a2ab9756306481b3ba743cd53c0aae4e0  
