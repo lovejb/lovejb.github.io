@@ -168,22 +168,6 @@ Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
 SHA1:9e92a474c24153cfe5a5a409afa1aa7e33e443ed  
 SHA256:95f5ead31465242c1d2bb4ac497d2ad7b94a18707cd229a7a80000355cdd1af3  
 
-Package: com.lovejb.crackicleaner
-Name: Crack iCleaner Pro
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Crack iCleaner
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.crackicleaner
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
-Size:3484308	
-MD5:5739409df06fbf4370e07cb780971482  
-Filename: ./debs/com.lovejb.crackicleaner_1.0_iphoneos-arm.deb
-SHA1:4e20a844ad0f50309b11222fc2e144260bfb8b21  
-SHA256:e829e27fd088693b0f0695544937e94356fe0b60d06bc0dd7ced7c564fbca8c0  
-
 Package: com.lovejb.flaticonlite
 Name: Opennotifier Flat Icon Pack (Lite)
 Version: 1.0
@@ -476,3 +460,19 @@ MD5:3e35ba6ed3538970b26cbfb7343c9a5d
 Filename: ./debs/com.lovejb.dekar_1.0.3_iphoneos-arm.deb
 SHA1:da37f14328857a5bdaa8a29bb6ebbf9e8c168f54  
 SHA256:22c4c09d3a4e3d99f106973062d1374a2ab9756306481b3ba743cd53c0aae4e0  
+
+Package: com.lovejb.crack-icleaner
+Name: Crack iCleaner Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Cài phiên bản chính chủ trước khi cài crack, chỉ cần cài là crack đc không cần phải làm gì thêm
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.crack-icleaner
+Author: Trần Chiến <kid95nd@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Size:3484420	
+MD5:f7f223f30847d9ae5a0995cec1dffcb9  
+Filename: ./debs/com.lovejb.crack-icleaner_1.0_iphoneos-arm.deb
+SHA1:56364bd56c2ae32b5ab5fd883900e7e9ab368d5a  
+SHA256:1120092bcddc4230879da8d701a543336fc5e8ff98d872adff200a227e832608  
