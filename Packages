@@ -204,7 +204,7 @@ Package: com.lovejb.lebly
 Name: Lebly (iOS10-11) - LoveJB
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Font November2 huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Description: Font Lebly (iOS10-11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
@@ -476,3 +476,35 @@ MD5:f7f223f30847d9ae5a0995cec1dffcb9
 Filename: ./debs/com.lovejb.crack-icleaner_1.0_iphoneos-arm.deb
 SHA1:56364bd56c2ae32b5ab5fd883900e7e9ab368d5a  
 SHA256:1120092bcddc4230879da8d701a543336fc5e8ff98d872adff200a227e832608  
+
+Package: com.lovejb.bytafonttm
+Name: BytaFont Tweak Mode (IOS 10.3.x)
+Version: 1.1.4
+Architecture: iphoneos-arm
+Description: BytaFont Tweak Mode for BytaFont3.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafonttm
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: mobilesubstrate, com.bytafont.bytafonttm
+Size:27680	
+MD5:5f09d93c709bc7f4a7f1df415b1d07cb  
+Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
+SHA1:3f74e6b7da0b113dd7aa04c5602e3a16813f8d68  
+SHA256:80940ba681ae803e951018484bdd209b587b980945b69e53a93ce9fdbefade99  
+
+Package: com.lovejb.bytafont3
+Name: BytaFont 3 (IOS 10.3.x)
+Version: 3.1.5b
+Architecture: iphoneos-arm
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafont3
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.3), unzip, mobilesubstrate, com.lovejb.bytafonttm
+Size:2002882	
+MD5:3a65f6c9188a553d9eeed3409a654a4b  
+Filename: ./debs/com.lovejb.bytafont3_3.1.5b_iphoneos-arm.deb
+SHA1:1cffc370688ea443e08a31194b6a353c529d8082  
+SHA256:0d8d6e43f71870f8d5e1b990f80d2fccf081754a7b4c6c58515b71cd17ac53d7  
