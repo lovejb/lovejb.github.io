@@ -115,25 +115,7 @@ Size:28952
 MD5:1098ac65f5383117691dc5de7333d314  
 Filename: ./debs/com.lovejb.flotus_1.0b3_iphoneos-arm.deb
 SHA1:6f24f58b51fd1598588844c97f971c3b80f20005  
-SHA256:67818447f7fab5ae2d8bd593c8c031d1f8ee35d839d8a1580ecc800b1978899b  
-
-Package: com.lovejb.maize10.3
-Name: Maize (iOS 10.3) - LoveJB
-Version: 1.3.1-01
-Architecture: iphoneos-arm
-Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.maize10.3.x
-Author: Creatix <ioscreatix@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch, firmware (<= 11.0)
-Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
-Size:975060	
-MD5:a6641e4936a5005ff3b4bacb00e7ad50  
-Filename: ./debs/com.lovejb.maize10.3.x_1.3.1-01_iphoneos-arm.deb
-SHA1:09428e977a76ea9c2d61720fec39c5c8891e64f1  
-SHA256:4f79ed6f0e90648fea59e291ae5566da4c83028539ec1b3cbfcc16c604a8cf4c  
-Icon: file:///Library/PreferenceBundles/MaizeSettings.bundle/SettingsIcon@2x.png
+SHA256:67818447f7fab5ae2d8bd593c8c031d1f8ee35d839d8a1580ecc800b1978899b 
 
 Package: com.lovejb.slidetounlock10
 Name: SlideToUnlock10
@@ -248,22 +230,6 @@ Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
 SHA1:95914e1dfa55da921c2465276f54fcaecdff0cdb  
 SHA256:1d0587541251e50f61a1d6908b80a5d14f112876c11227133ff9010f6820a7a0  
 
-Package: com.lovejb.ntspeed
-Name: NtSpeed
-Version: 0.1-1+debug
-Architecture: iphoneos-arm
-Description: Suspension frame display speed add WiFi and 4G
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.netspeed
-Author: julioverne <jlio_verne@hotmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, firmware (<= 11.0)
-Size:24426	
-MD5:a3243b7b54dad628e5bee2b2af3a82fd  
-Filename: ./debs/com.lovejb.netspeed_0.1-1+debug_iphoneos-arm.deb
-SHA1:e28f733efe24e40aec3a2a55b49cbf21717cb77a  
-SHA256:e2a7791fdd7d5e0679afcadf2ad93bc7ac77e2c380e50372db0b1fdb7ed08f35  
-
 Package: com.lovejb.ringtonespatch
 Name: Ringtones Patch
 Version: 2.0-11
@@ -279,22 +245,6 @@ MD5:c9b7c485aec55ec4ce6b5af92a227596
 Filename: ./debs/com.lovejb.ringtonespatch_2.0-11_iphoneos-arm.deb
 SHA1:aad01f43a4f4670a4232f81ddb44f3c863dc58bf  
 SHA256:06dff7c4711bb7553f4adb1ec36210d7fb0384889dbc6dca01b29b1dffb9c0cd  
-
-Package: com.lovejb.squareicon
-Name: Opennotifier Square Icon - LoveJB
-Version: 1.0
-Architecture: iphoneos-arm
-Description: độc quyền bởi Vũ Quang và Nguyễn Văn Hà
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
-Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Opennotifier
-Depends: mobilesubstrate
-Size:561590	
-MD5:3faa801b892b186f102123b8dfad7af7  
-Filename: ./debs/com.lovejb.squareicon_1.0_iphoneos-arm.deb
-SHA1:c305fea0df6ce16086cab9cbaec2d777821e7ddd  
-SHA256:e03faf704e639941c0ecfb99b3c6ddf931ddaf0ffd6f89ecf23106cc455b5731  
 
 Package: com.lovejb.pandahelpervip
 Name: Panda Helper VIP
@@ -528,3 +478,85 @@ MD5:10e5e9caae7e683cf5336e3d8d7057e3
 Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
 SHA1:c035f55d3ba8d61af82ce690da3c5b3c9e350b49  
 SHA256:2b3fcbff3a7d19f52c281362af7d4059b021b527dcadf7f82e1db629b6e3eb04  
+
+Package: com.lovejb.maize10.3
+Name: Maize (IOS 10.3) - LoveJB
+Version: 1.3.1-01
+Architecture: iphoneos-arm
+Description: Mang ControlCenter của IOS11 đến với IOS10. Fix cho IOS10.3.x bởi Nguyễn Văn Hà
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.maize10.3
+Author: Creatix <ioscreatix@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch, firmware (<= 11.0)
+Icon: file:///Library/PreferenceBundles/MaizeSettings.bundle/SettingsIcon@2x.png
+Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
+Size:975124	
+MD5:4b430d8e0002a6e0961f7599d45eb4ea  
+Filename: ./debs/com.lovejb.maize10.3_1.3.1-01_iphoneos-arm.deb
+SHA1:61f216c719bb4535b68df578e92fbe440d069a2e  
+SHA256:1d5585d505e315a32c4331a41db219a913cf03fd62ee89f4e9c0432ce7710b88  
+
+Package: com.lovejb.squareicon
+Name: Opennotifier Square Icon - LoveJB
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Bộ Icon được mod bởi Bùi Vũ Quang và được hoàn thiện bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
+Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Opennotifier
+Depends: mobilesubstrate
+Size:825640	
+MD5:88379ed92cfc8e9ed45a7d9e28a3a94b  
+Filename: ./debs/com.lovejb.squareicon_1.2_iphoneos-arm.deb
+SHA1:7528c514b6cef2fd71c5ef735a9c21d6984e46c9  
+SHA256:f5049bd760b67b1a97b983ed29a956870f239d6412f1edb7933baa138eed4a3c  
+
+Package: com.lovejb.ntspeed
+Name: NtSpeed
+Version: 0.2~beta3
+Architecture: iphoneos-arm
+Description: See Active Traffic Network Speed
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ntspeed
+Author: julioverne <jlio_verne@hotmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, firmware (<= 11.0)
+Size:21052	
+MD5:ca0a54e4b3fcfed9ea748aa2980422a3  
+Filename: ./debs/com.lovejb.ntspeed_0.2~beta3_iphoneos-arm.deb
+SHA1:0c591393502f055168e4d803e0975447d6f81dee  
+SHA256:8a0a6a4683c5e7085e78d2bc64d5e129f06e1b36ac0c220f38164bb446b56207  
+
+Package: com.lovejb.ntspeed
+Name: NtSpeed
+Version: 0.2~beta4
+Architecture: iphoneos-arm
+Description: See Active Traffic Network Speed
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ntspeed
+Author: julioverne <jlio_verne@hotmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, firmware (<= 11.0)
+Size:14296	
+MD5:8d26a54a7154f8348772a6a8cf6ce3fa  
+Filename: ./debs/com.lovejb.ntspeed_0.2~beta4_iphoneos-arm.deb
+SHA1:31017edcafa3f578de0bd01dfb10f44d96abeeac  
+SHA256:3e04f7ae06037871fe6298b0091c0e2bbfb56d1fcccb0b3e24b203923f1edfcb  
+
+Package: com.lovejb.ntspeed
+Name: NtSpeed
+Version: 0.2~beta5
+Architecture: iphoneos-arm
+Description: See Active Traffic Network Speed
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ntspeed
+Author: julioverne <jlio_verne@hotmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, firmware (<= 11.0)
+Size:24438	
+MD5:22dc3334be1ece4e657ab1618314454f  
+Filename: ./debs/com.lovejb.ntspeed_0.2~beta5_iphoneos-arm.deb
+SHA1:66a571544e925de2baf481c11ef12be44ba3fb9e  
+SHA256:dd562daefa600503301c49876b3a75760fd97ff6eb4aade5cc58f91bd67c349c  
