@@ -411,22 +411,6 @@ Filename: ./debs/com.lovejb.crack-icleaner_1.0_iphoneos-arm.deb
 SHA1:56364bd56c2ae32b5ab5fd883900e7e9ab368d5a  
 SHA256:1120092bcddc4230879da8d701a543336fc5e8ff98d872adff200a227e832608  
 
-Package: com.lovejb.bytafonttm
-Name: BytaFont Tweak Mode
-Version: 1.1.4
-Architecture: iphoneos-arm
-Description: BytaFont Tweak Mode for BytaFont3.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafonttm
-Author: BytaFont.com <info@bytafont.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: mobilesubstrate, com.bytafont.bytafonttm
-Size:27680	
-MD5:5f09d93c709bc7f4a7f1df415b1d07cb  
-Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
-SHA1:3f74e6b7da0b113dd7aa04c5602e3a16813f8d68  
-SHA256:80940ba681ae803e951018484bdd209b587b980945b69e53a93ce9fdbefade99  
-
 Package: com.lovejb.bytafont3
 Name: BytaFont 3 (IOS 10.3)
 Version: 3.1.5b
@@ -497,22 +481,6 @@ Filename: ./debs/com.lovejb.maize10.3_1.3.1-01_iphoneos-arm.deb
 SHA1:61f216c719bb4535b68df578e92fbe440d069a2e  
 SHA256:1d5585d505e315a32c4331a41db219a913cf03fd62ee89f4e9c0432ce7710b88  
 
-Package: com.lovejb.squareicon
-Name: Opennotifier Square Icon - LoveJB
-Version: 1.2
-Architecture: iphoneos-arm
-Description: Bộ Icon được mod bởi Bùi Vũ Quang và được hoàn thiện bởi Nguyễn Văn Hà.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
-Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Opennotifier
-Depends: mobilesubstrate
-Size:825640	
-MD5:88379ed92cfc8e9ed45a7d9e28a3a94b  
-Filename: ./debs/com.lovejb.squareicon_1.2_iphoneos-arm.deb
-SHA1:7528c514b6cef2fd71c5ef735a9c21d6984e46c9  
-SHA256:f5049bd760b67b1a97b983ed29a956870f239d6412f1edb7933baa138eed4a3c  
-
 Package: com.lovejb.ntspeed
 Name: NtSpeed
 Version: 0.2~beta3
@@ -560,3 +528,35 @@ MD5:22dc3334be1ece4e657ab1618314454f
 Filename: ./debs/com.lovejb.ntspeed_0.2~beta5_iphoneos-arm.deb
 SHA1:66a571544e925de2baf481c11ef12be44ba3fb9e  
 SHA256:dd562daefa600503301c49876b3a75760fd97ff6eb4aade5cc58f91bd67c349c  
+
+Package: com.lovejb.bytafonttm
+Name: BytaFont Tweak Mode (IOS 10.3.x)
+Version: 1.1.4
+Architecture: iphoneos-arm
+Description: BytaFont Tweak Mode for BytaFont3.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafonttm
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Utilities
+Depends: mobilesubstrate
+Size:27676	
+MD5:aa9e37405aaa96ffec7eeadbb0ddbf6e  
+Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
+SHA1:01b90b53c425a01014cea89efb3277616964be29  
+SHA256:08a14680c092ffb5a645925a61d844f020581aa703c9dfb349456199857174e1  
+
+Package: com.lovejb.squareicon
+Name: Opennotifier Square Icon - LoveJB
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Bộ Icon được mod bởi Bùi Vũ Quang và được hoàn thiện bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
+Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Opennotifier
+
+Size:825624	
+MD5:c5e36be640097e92906543ec6499633b  
+Filename: ./debs/com.lovejb.squareicon_1.2_iphoneos-arm.deb
+SHA1:620bf1b4472216a0b2177b4d8db9e96f135250d9  
+SHA256:f58afb57c06ce62a6ed0ebadd773fde55bcc4882770c57fc076e152ab815799d  
