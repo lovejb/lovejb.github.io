@@ -545,6 +545,7 @@ Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
 SHA1:01b90b53c425a01014cea89efb3277616964be29  
 SHA256:08a14680c092ffb5a645925a61d844f020581aa703c9dfb349456199857174e1  
 
+
 Package: com.lovejb.squareicon
 Name: Opennotifier Square Icon - LoveJB
 Version: 1.2
@@ -554,9 +555,9 @@ Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
 Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
-
-Size:825624	
-MD5:c5e36be640097e92906543ec6499633b  
+Depends: mobilesubstrate
+Size:825636	
+MD5:625292791abd9abf6c8e340d72b955b5  
 Filename: ./debs/com.lovejb.squareicon_1.2_iphoneos-arm.deb
-SHA1:620bf1b4472216a0b2177b4d8db9e96f135250d9  
-SHA256:f58afb57c06ce62a6ed0ebadd773fde55bcc4882770c57fc076e152ab815799d  
+SHA1:53ec5098f337c6c52c7414e183b6b3fd6943f41a  
+SHA256:382458970bed13c692b0e74d1600af29c3bea98720fb3567f152a7ea74c393a2  
