@@ -1,5 +1,5 @@
 Package: com.lovejb.activatorviet
-Name: Activator VietSub
+Name: Activator Việt Hoá
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Bản Tiếng Việt cho Activator
@@ -328,23 +328,6 @@ Filename: ./debs/com.lovejb.lebly9_1.0.0_iphoneos-arm.deb
 SHA1:a22677a801cf10bb6e72e4a03b13587d280b5a87  
 SHA256:6d96b5d347759712f235db8e19451ee2b24d7de3876a29036af17abfec9d124f  
 
-Package: com.lovejb.qda
-Name: QuickDo (Activator) VietSub
-Version: 3.9.4k
-Architecture: iphoneos-arm
-Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS. Việt sub bởi Nguyễn Văn Hà
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.qda
-Author: Ma Jun
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
-Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
-Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
-Size:1736830	
-MD5:cfc54761e10cfc2ff7530c8a53e61ddf  
-SHA1:7ae26d5df8f18ec8863503c41478325afbb8f604  
-SHA256:461f6ff2bb3abef6eaa1717199b28a66898fcb8c60b876d96435f1457d949ddc  
-
 Package: com.lovejb.cardump
 Name: CarDump
 Version: 1.0
@@ -545,7 +528,6 @@ Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
 SHA1:01b90b53c425a01014cea89efb3277616964be29  
 SHA256:08a14680c092ffb5a645925a61d844f020581aa703c9dfb349456199857174e1  
 
-
 Package: com.lovejb.squareicon
 Name: Opennotifier Square Icon - LoveJB
 Version: 1.2
@@ -561,3 +543,21 @@ MD5:625292791abd9abf6c8e340d72b955b5
 Filename: ./debs/com.lovejb.squareicon_1.2_iphoneos-arm.deb
 SHA1:53ec5098f337c6c52c7414e183b6b3fd6943f41a  
 SHA256:382458970bed13c692b0e74d1600af29c3bea98720fb3567f152a7ea74c393a2  
+
+Package: com.lovejb.qda
+Name: QuickDo (Activator) Việt Hoá
+Version: 3.9.4k
+Architecture: iphoneos-arm
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS. Việt sub bởi Nguyễn Văn Hà
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.qda
+Author: Ma Jun
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Size:1736836	
+MD5:8116218b2844bb71a3779ed90583cae5  
+Filename: ./debs/com.lovejb.qda_3.9.4k_iphoneos-arm.deb
+SHA1:8f93f20a4b18444d12d8d61123768253626d324a  
+SHA256:432c1521e3cb6bb86ab6955fad2cff38354fc9c525cbca30fe59c3e7000fa817  
