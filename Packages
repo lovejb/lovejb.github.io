@@ -199,10 +199,10 @@ SHA1:25931c01376081840b1f4cfeaac3de64f7125974
 SHA256:f441c5931880b2eda1021ca61c1d87d67151113ca2ada8d6a543ee3fa4799db5  
 
 Package: com.lovejb.november2
-Name: November2 (iOS9) - LoveJB
+Name: Định Mệnh (iOS9) - LoveJB
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Font November2 huyền thoại. Được mod lại full Việt bởi Vũ Quang.
+Description: Font Định Mệnh huyền thoại. Được mod lại full Việt bởi Vũ Quang.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.november2
 Author: Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
@@ -513,7 +513,7 @@ SHA1:66a571544e925de2baf481c11ef12be44ba3fb9e
 SHA256:dd562daefa600503301c49876b3a75760fd97ff6eb4aade5cc58f91bd67c349c  
 
 Package: com.lovejb.bytafonttm
-Name: BytaFont Tweak Mode (IOS 10.3.x)
+Name: BytaFont Tweak Mode
 Version: 1.1.4
 Architecture: iphoneos-arm
 Description: BytaFont Tweak Mode for BytaFont3.
@@ -561,3 +561,19 @@ MD5:8116218b2844bb71a3779ed90583cae5
 Filename: ./debs/com.lovejb.qda_3.9.4k_iphoneos-arm.deb
 SHA1:8f93f20a4b18444d12d8d61123768253626d324a  
 SHA256:432c1521e3cb6bb86ab6955fad2cff38354fc9c525cbca30fe59c3e7000fa817  
+
+Package: com.lovejb.unjbelectra
+Name: UnJailbreak Electra (iOS11)
+Version: 1.1-2
+Architecture: iphoneos-arm
+Description: Semi Restore iOS11 ( Electra )
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
+Author: KirovAir
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 11)
+Size:4388	
+MD5:83bba1c0fdfba57c7da3ac996636f5a1  
+Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
+SHA1:9b870d6a15318f694f65035308815132474aee64  
+SHA256:6418ce9bb27f99218064ec45a46389777d130155c5fa2d69da9233cb2e1a1803  
