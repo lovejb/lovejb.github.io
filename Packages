@@ -562,22 +562,6 @@ Filename: ./debs/com.lovejb.qda_3.9.4k_iphoneos-arm.deb
 SHA1:8f93f20a4b18444d12d8d61123768253626d324a  
 SHA256:432c1521e3cb6bb86ab6955fad2cff38354fc9c525cbca30fe59c3e7000fa817  
 
-Package: com.lovejb.unjbelectra
-Name: UnJailbreak Electra (iOS11)
-Version: 1.1-2
-Architecture: iphoneos-arm
-Description: Semi Restore iOS11 ( Electra )
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
-Author: KirovAir
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: System
-Depends: firmware (>= 11)
-Size:4388	
-MD5:83bba1c0fdfba57c7da3ac996636f5a1  
-Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
-SHA1:9b870d6a15318f694f65035308815132474aee64  
-SHA256:6418ce9bb27f99218064ec45a46389777d130155c5fa2d69da9233cb2e1a1803  
-
 Package: com.lovejb.contesan
 Name: Conte San (iOS10-11) - LoveJB
 Version: 1.0.3
@@ -593,3 +577,19 @@ MD5:22082336ab48a9654ff1b31783e97d05
 Filename: ./debs/com.lovejb.contesan_1.0.3_iphoneos-arm.deb
 SHA1:5683bb7f6e35650324452a67cf94607e4b1efe0d  
 SHA256:86bf3d55393b0b73888d105d2e6c72f5eddd3f8ece70efec3006884fdf52aad2  
+
+Package: com.lovejb.unjbelectra
+Name: UnJailbreak Electra (iOS11)
+Version: 1.1-2
+Architecture: iphoneos-arm
+Description: Semi Restore iOS11 ( Electra )
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
+Author: KirovAir
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 11)
+Size:4386	
+MD5:1620394a17b945e65079e1922381a0cd  
+Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
+SHA1:4a356122666a73009eaa903987521bda301da000  
+SHA256:0ccf5f9acf323aea58d9cb76f7fb37099729f3c3cf1d000fe1790b36dbfabc91  
