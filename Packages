@@ -131,24 +131,7 @@ Size:5838
 MD5:f847fd69115b362b2ac30ae14457d260  
 Filename: ./debs/com.lovejb.slidetounlock10_0.0.2_iphoneos-arm.deb
 SHA1:f264cdda7eb1f46959e2434588a68279e939a98c  
-SHA256:914b22b14e888646fde04fad1e72e3e3074d496cd0296dd12265c8ec8a52b5f0  
-
-Package: com.lovejb.appsyncunified
-Name: AppSync Unified
-Version: 9.0
-Architecture: iphoneos-arm
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appsyncunified
-Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.1.2)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Size:37728	
-MD5:ad6cbbfa9cbc9e019675de83236a2c4a  
-Filename: ./debs/com.lovejb.appsyncunified_9.0_iphoneos-arm.deb
-SHA1:9e92a474c24153cfe5a5a409afa1aa7e33e443ed  
-SHA256:95f5ead31465242c1d2bb4ac497d2ad7b94a18707cd229a7a80000355cdd1af3  
+SHA256:914b22b14e888646fde04fad1e72e3e3074d496cd0296dd12265c8ec8a52b5f0    
 
 Package: com.lovejb.flaticonlite
 Name: Opennotifier Flat Icon Pack (Lite)
@@ -593,3 +576,20 @@ MD5:2ccf97c4be48af27b79be579ec2366d9
 Filename: ./debs/com.lovejb.contesan_1.0.5_iphoneos-arm.deb
 SHA1:0effd37307d21b638d078ccaafcb35003dd7462c  
 SHA256:a121f90673c99f28719664511fe3d71270c95c3b581f7dcef016cae8a7a27b4d  
+
+Package: com.lovejb.appsyncunified
+Name: AppSync Unified
+Version: 30.0
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appsyncunified
+Author: Linus Yang, Karen/あけみ
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Size:36628	
+MD5:c5c9caaa347091faa6ba86d35a0025aa  
+Filename: ./debs/com.lovejb.appsyncunified_30.0_iphoneos-arm.deb
+SHA1:edc0e691052bbb457eaf202edc3018016b1adf41  
+SHA256:21d330d633ac9b3b0c60563340b42a311d599f24840007b267a8aff7e3b41621  
