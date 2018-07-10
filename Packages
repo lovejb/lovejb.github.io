@@ -578,6 +578,7 @@ Filename: ./debs/com.lovejb.contesan_1.0.3_iphoneos-arm.deb
 SHA1:5683bb7f6e35650324452a67cf94607e4b1efe0d  
 SHA256:86bf3d55393b0b73888d105d2e6c72f5eddd3f8ece70efec3006884fdf52aad2  
 
+
 Package: com.lovejb.unjbelectra
 Name: UnJailbreak Electra (iOS11)
 Version: 1.1-2
@@ -588,8 +589,8 @@ Author: KirovAir
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: System
 Depends: firmware (>= 11)
-Size:4386	
-MD5:1620394a17b945e65079e1922381a0cd  
+Size:4372	
+MD5:baea1302f8c5edca9e996825bb1ca4e0  
 Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
-SHA1:4a356122666a73009eaa903987521bda301da000  
-SHA256:0ccf5f9acf323aea58d9cb76f7fb37099729f3c3cf1d000fe1790b36dbfabc91  
+SHA1:2a494d7cc3b1a4260442617f24601b6eb0bfb0d3  
+SHA256:d40205a2a107796b1ccda7a3af786c604bf70417b7e66cc247102443503a9286  
