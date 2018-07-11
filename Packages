@@ -645,3 +645,19 @@ MD5:28203b38ccfc2343e1f23554b5218138
 Filename: ./debs/com.anemonetheming.anemone_2.1.8-2~FixFont_iphoneos-arm.deb
 SHA1:474121f513a18034a6e05585c95c8d0ded715981  
 SHA256:6ff52e392b9daf79f8f06db85e5f99b4e009322366febad1867f45f1db1401e9  
+
+Package: com.lovejb.fixshuttersound
+Name: Fix Shutter Sound
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Fix Shutter Sound on iPhone J/A and KH/A
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.fixshuttersound
+Author: iGosu <igosu@icloud.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+
+Size:1358	
+MD5:076af5922a43c82a30cc54b5be320359  
+Filename: ./debs/com.lovejb.fixshuttersound_2.0_iphoneos-arm.deb
+SHA1:2f6964b6acf8c433bfeade0dbe2bf570fbaa66a4  
+SHA256:5b4c2441c290aa92b311f0105748e4adffcc417ffea8c6b62682c3d2e99c48ec  
