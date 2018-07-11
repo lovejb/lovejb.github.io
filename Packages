@@ -561,22 +561,6 @@ Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
 SHA1:2a494d7cc3b1a4260442617f24601b6eb0bfb0d3  
 SHA256:d40205a2a107796b1ccda7a3af786c604bf70417b7e66cc247102443503a9286  
 
-Package: com.lovejb.contesan
-Name: Conte San (iOS10-11) - LoveJB
-Version: 1.0.5
-Architecture: iphoneos-arm
-Description: Font "Conte San" Được mod lại full Việt bởi Nguyễn Văn Hà.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Anemone Fonts
-Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
-Size:9191772	
-MD5:2ccf97c4be48af27b79be579ec2366d9  
-Filename: ./debs/com.lovejb.contesan_1.0.5_iphoneos-arm.deb
-SHA1:0effd37307d21b638d078ccaafcb35003dd7462c  
-SHA256:a121f90673c99f28719664511fe3d71270c95c3b581f7dcef016cae8a7a27b4d  
-
 Package: com.lovejb.appsyncunified
 Name: AppSync Unified
 Version: 30.0
@@ -593,3 +577,51 @@ MD5:c5c9caaa347091faa6ba86d35a0025aa
 Filename: ./debs/com.lovejb.appsyncunified_30.0_iphoneos-arm.deb
 SHA1:edc0e691052bbb457eaf202edc3018016b1adf41  
 SHA256:21d330d633ac9b3b0c60563340b42a311d599f24840007b267a8aff7e3b41621  
+
+Package: com.lovejb.contesan
+Name: Conte San (iOS10-11) - LoveJB
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Font "Conte San" Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:9398900	
+MD5:9d5d248a82cdcb0c126795bd968d2cbc  
+Filename: ./debs/com.lovejb.contesan_1.0.6_iphoneos-arm.deb
+SHA1:80ab7011ea81b8b2adfb3fc35d2993980c58dafa  
+SHA256:de7f0bcff041da41ec70c8f903b719239feb8ced0adc8b5827d73511d388f283  
+
+Package: com.lovejb.verlag
+Name: Verlag (iOS10-11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Verlag" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.verlag
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:1276	
+MD5:9f35d5f7fbcd06b520579a53aaa74fd2  
+Filename: ./debs/com.lovejb.verlag_1.0.0_iphoneos-arm.deb
+SHA1:8c8a33bd9b4283fe9b00e73655c1dc156b127d1b  
+SHA256:5105e6d16a5365c5f7274c6a2272f7f8b6287b7c2b15585e432f07580459abb1  
+
+Package: com.lovejb.contesan9
+Name: Conte San (iOS9) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Conte San Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan9
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (<= 10), mobilesubstrate, com.anemonetheming.anemone, firmware (>= 9.0)
+Size:11976324	
+MD5:9eb63f2fc5a4190d5717ca334a600304  
+Filename: ./debs/com.lovejb.contesan9_1.0.0_iphoneos-arm.deb
+SHA1:e81ac5778db94d619ceabd6a7af0da02199071ea  
+SHA256:5a5c3a5f58768cb100da0ba94ef056655a313969948e0088177e0ec65a775b39  
