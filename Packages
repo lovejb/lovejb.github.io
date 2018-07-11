@@ -626,9 +626,10 @@ Filename: ./debs/com.lovejb.contesan9_1.0.0_iphoneos-arm.deb
 SHA1:e81ac5778db94d619ceabd6a7af0da02199071ea  
 SHA256:5a5c3a5f58768cb100da0ba94ef056655a313969948e0088177e0ec65a775b39  
 
+
 Package: com.anemonetheming.anemone
 Name: Anemone
-Version: 2.1.8-1~FixFont
+Version: 2.1.8-2~FixFont
 Architecture: iphoneos-arm
 Description: An awesome theme manager!
 Depiction: https://lovejb.github.io/description.html?id=com.anemonetheming.anemone
@@ -639,8 +640,8 @@ Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbo
 Icon: file:///Applications/Anemone.app/icon.png
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
-Size:4063834	
-MD5:ebab767faabf866e427cccad3ed45c1c  
-Filename: ./debs/com.anemonetheming.anemone_2.1.8-1~FixFont_iphoneos-arm.deb
-SHA1:0ee6ebc637c60e871c424ed80016031180eaab59  
-SHA256:1b5d3ab5b37cbf89791eed1fff9c652aec1b2bc8f9511893c98905ca9bb5b9b3  
+Size:4063810	
+MD5:28203b38ccfc2343e1f23554b5218138  
+Filename: ./debs/com.anemonetheming.anemone_2.1.8-2~FixFont_iphoneos-arm.deb
+SHA1:474121f513a18034a6e05585c95c8d0ded715981  
+SHA256:6ff52e392b9daf79f8f06db85e5f99b4e009322366febad1867f45f1db1401e9  
