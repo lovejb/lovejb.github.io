@@ -1,19 +1,3 @@
-Package: com.lovejb.activatorviet
-Name: Activator Việt Hoá
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Bản Tiếng Việt cho Activator
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.activatorviet
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: mobilesubstrate, libactivator (>= 1.8.3)
-Size: 9214
-MD5: 2193aba2a27c4e9f9adfb541c9492edf
-SHA1: 0a7a594de9f4b7f15f1445c2b3d40c9c66373510
-SHA256: dde65e488c0fc506c3c66bb58101dadf2a6d0c741dd8dd76c9135447e0e250de
-Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
-
 Package: com.lovejb.apppercent
 Name: App Percent
 Version: 2.0.0
@@ -155,7 +139,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Font Gineso mang kiểu dáng hình học với kich thước nhỏ hẹp. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gineso
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
@@ -171,7 +155,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Lebly (iOS10-11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
@@ -187,7 +171,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Định Mệnh huyền thoại. Được mod lại full Việt bởi Vũ Quang.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.november2
-Author: Vũ Quang
+Author: Bùi Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
@@ -203,7 +187,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor
-Author: Vũ Quang
+Author: Bùi Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 9.0), mobilesubstrate, com.anemonetheming.anemone, firmware (<= 10.0)
@@ -351,7 +335,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Description: Font Dekar Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dekar
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
@@ -392,42 +376,6 @@ MD5:3a65f6c9188a553d9eeed3409a654a4b
 Filename: ./debs/com.lovejb.bytafont3_3.1.5b_iphoneos-arm.deb
 SHA1:1cffc370688ea443e08a31194b6a353c529d8082  
 SHA256:0d8d6e43f71870f8d5e1b990f80d2fccf081754a7b4c6c58515b71cd17ac53d7  
-
-Package: com.lovejb.gamegem10.3
-Name: GameGem (iOS10.3)
-Version: 1.1-2
-Architecture: iphoneos-arm
-Description: Cheat engine for ios. Fix for iPhone and iPad with iOS 10.3 by NGUYỄN VĂN HÀ ( Http://lovejb.github.io )
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem10.3
-Author: Aidoo.TK
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 10.3), firmware (<= 11)
-Icon: file:///Applications/MemSearch.app/AppIcon60x60@2x.png
-Conflicts: com.lovejb.gamegem
-Size:2245890	
-MD5:468846853ef0cc56b4d7274ab97d4643  
-Filename: ./debs/com.lovejb.gamegem10.3_1.1-2_iphoneos-arm.deb
-SHA1:821f15ba779ec96341938fe53e4bdf33acf6ca48  
-SHA256:c351f22a2de9c0ae919d19e53295d501f066614da8c005945cfd6e3bdbbd5e82  
-
-Package: com.lovejb.gamegem
-Name: GameGem
-Version: 1.1
-Architecture: iphoneos-arm
-Description: Cheat engine for ios. Supports iPhone and iPad with iOS 6-10.2
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem
-Author: Aidoo.TK
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Applications
-Depends: firmware (>= 6.0), firmware (<= 11.0)
-Icon: file:///Applications/MemSearch.app/AppIcon60x60@2x.png
-Conflicts: com.lovejb.gamegem10.3
-Size:2245670	
-MD5:10e5e9caae7e683cf5336e3d8d7057e3  
-Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
-SHA1:c035f55d3ba8d61af82ce690da3c5b3c9e350b49  
-SHA256:2b3fcbff3a7d19f52c281362af7d4059b021b527dcadf7f82e1db629b6e3eb04  
 
 Package: com.lovejb.maize10.3
 Name: Maize (IOS 10.3) - LoveJB
@@ -517,7 +465,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Description: Bộ Icon được mod bởi Bùi Vũ Quang và được hoàn thiện bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.squareicon
-Author: Vũ Quang, LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Bùi Vũ Quang, Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Opennotifier
 Depends: mobilesubstrate
@@ -584,7 +532,7 @@ Version: 1.0.6
 Architecture: iphoneos-arm
 Description: Font "Conte San" Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
@@ -616,7 +564,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Conte San Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan9
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (<= 10), mobilesubstrate, com.anemonetheming.anemone, firmware (>= 9.0)
@@ -625,7 +573,6 @@ MD5:9eb63f2fc5a4190d5717ca334a600304
 Filename: ./debs/com.lovejb.contesan9_1.0.0_iphoneos-arm.deb
 SHA1:e81ac5778db94d619ceabd6a7af0da02199071ea  
 SHA256:5a5c3a5f58768cb100da0ba94ef056655a313969948e0088177e0ec65a775b39  
-
 
 Package: com.anemonetheming.anemone
 Name: Anemone
@@ -646,6 +593,22 @@ Filename: ./debs/com.anemonetheming.anemone_2.1.8-2~FixFont_iphoneos-arm.deb
 SHA1:474121f513a18034a6e05585c95c8d0ded715981  
 SHA256:6ff52e392b9daf79f8f06db85e5f99b4e009322366febad1867f45f1db1401e9  
 
+Package: com.lovejb.activatorviet
+Name: Activator Việt Hoá
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bản Tiếng Việt cho Activator
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.activatorviet
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, libactivator
+Size:9216	
+MD5:73b17af73a8cca4eff0e3f028da64b46  
+Filename: ./debs/com.lovejb.activatorviet_1.0_iphoneos-arm.deb
+SHA1:755900dc81d1b7494d67ac4050e0560d51753769  
+SHA256:defd736b903f7a965388128b2a28c61d9df7ecf53a46ebd18576f5a30f173898  
+
 Package: com.lovejb.fixshuttersound
 Name: Fix Shutter Sound
 Version: 2.0
@@ -655,9 +618,61 @@ Depiction: https://lovejb.github.io/description.html?id=com.lovejb.fixshuttersou
 Author: iGosu <igosu@icloud.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
-
-Size:1358	
-MD5:076af5922a43c82a30cc54b5be320359  
+Depends: mobilesubstrate
+Size:1366	
+MD5:b323780f2d33fd7ee03a0e5f473f87b5  
 Filename: ./debs/com.lovejb.fixshuttersound_2.0_iphoneos-arm.deb
-SHA1:2f6964b6acf8c433bfeade0dbe2bf570fbaa66a4  
-SHA256:5b4c2441c290aa92b311f0105748e4adffcc417ffea8c6b62682c3d2e99c48ec  
+SHA1:9ba2cbcfc5cb8911939b135dfee910cee1a0b213  
+SHA256:7de7ddd44e162c147d5ea601b353ca197d7cde8769ef3843eca76f4a1c612ac3  
+
+Package: com.lovejb.gamegem10.3
+Name: GameGem (iOS10.3)
+Version: 1.1-2
+Architecture: iphoneos-arm
+Description: Cheat engine for ios. Fix for iPhone and iPad with iOS 10.3 by NGUYỄN VĂN HÀ ( Http://lovejb.github.io )
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem10.3
+Author: Aidoo.TK
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: firmware (>= 10.3), firmware (<= 11)
+Icon: file:///Applications/MemSearch.app/AppIcon60x60@2x.png
+Conflicts: com.lovejb.gamegem
+Size:2245922	
+MD5:88f97815fff021b80562e5c30729db68  
+Filename: ./debs/com.lovejb.gamegem10.3_1.1-2_iphoneos-arm.deb
+SHA1:573ae0a5a9b35df119f2be804f48edfa961156e4  
+SHA256:2d54e1be71a85a50caafc71efaa2f968ffa3cdf1e14687852f625c508482c036  
+
+Package: com.lovejb.gamegem
+Name: GameGem
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Cheat engine for ios. Supports iPhone and iPad with iOS 6-10.2
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.gamegem
+Author: Aidoo.TK
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Applications
+Depends: firmware (>= 6.0), firmware (<= 11.0)
+Icon: file:///Applications/MemSearch.app/AppIcon60x60@2x.png
+Conflicts: com.lovejb.gamegem10.3
+Size:2245692	
+MD5:4f62edd9fe1d717f16c01dac60360728  
+Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
+SHA1:858a80ed05f669d4cbd3dd70218e539fc8106fa0  
+SHA256:5342b760bdb722a4bb09622d6865e45106e5763df2cada4f66d36f951ad6b21d  
+
+Package: com.lovejb.stagsan
+Name: Stag San (iOS10-11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Stag San" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.stagsan
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:12302198	
+MD5:951bf5ec32433277fc1c6c3e371ef708  
+Filename: ./debs/com.lovejb.stagsan_1.0.0_iphoneos-arm.deb
+SHA1:f192ededfba07778da75bd620f30f00bdc6ca0fc  
+SHA256:30d65fdff0c87caf0d343c8a6e8a8288f8820754ce146c06ad01d1a780c1b51a  
