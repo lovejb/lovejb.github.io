@@ -692,3 +692,19 @@ MD5:effd457eb004f95e703b2fbc87392b98
 Filename: ./debs/com.lovejb.contesan_1.0.7_iphoneos-arm.deb
 SHA1:855f8c2814743cc5e5e907f640374bccda209c96  
 SHA256:247b6a36fcf3495a70f632960f21d839eef93fe2408b88363634f9028ab24212  
+
+Package: com.lovejb.stagsan
+Name: Stag San (iOS10-11)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Font "Stag San" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.stagsan
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:12726128	
+MD5:c4d8e3505a18656ea97878a7db7c3e80  
+Filename: ./debs/com.lovejb.stagsan_1.1_iphoneos-arm.deb
+SHA1:f95145c13509b9cf4afbd5c8ba740a9e9f4d32b1  
+SHA256:4234e627d6db0d360cea11ac4cfaa5304861d4842bded709d80e7a7ab208bc1d  
