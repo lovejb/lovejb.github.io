@@ -629,22 +629,6 @@ Filename: ./debs/com.lovejb.gamegem_1.1_iphoneos-arm.deb
 SHA1:858a80ed05f669d4cbd3dd70218e539fc8106fa0  
 SHA256:5342b760bdb722a4bb09622d6865e45106e5763df2cada4f66d36f951ad6b21d  
 
-Package: com.lovejb.bong
-Name: Bống (iOS10-11)
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Font "Bống" Được mod lại full Việt bởi "Hà Tía Tô"
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bong
-Author: Hà Tía Tô
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Anemone Fonts
-Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
-Size:14963282	
-MD5:2994d986ac24fa76fc10c885625b3a95  
-Filename: ./debs/com.lovejb.bong_1.0.0_iphoneos-arm.deb
-SHA1:dbc934329a24920b40e8753652111f744231c7c3  
-SHA256:5a3d375dfbe78b71aa0c10c58810d64728b9bac4591af639d24b5d1de61cad1b  
-
 Package: com.lovejb.verlag
 Name: Verlag (iOS10-11)
 Version: 1.1
@@ -708,3 +692,35 @@ MD5:c4d8e3505a18656ea97878a7db7c3e80
 Filename: ./debs/com.lovejb.stagsan_1.1_iphoneos-arm.deb
 SHA1:f95145c13509b9cf4afbd5c8ba740a9e9f4d32b1  
 SHA256:4234e627d6db0d360cea11ac4cfaa5304861d4842bded709d80e7a7ab208bc1d  
+
+Package: com.lovejb.bong
+Name: Bống (iOS10-11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Futura" Được mod lại full Việt bởi "Hà Tía Tô"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bong
+Author: Hà Tía Tô
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:14963286	
+MD5:8dc5ba71c77562b53c02a4f70132e9ef  
+Filename: ./debs/com.lovejb.bong_1.0.0_iphoneos-arm.deb
+SHA1:8c35e27a33bb66607d9144a912ebdc92768ff8d8  
+SHA256:5036f3d23304ac95856492901c0f1c40ee12069a1b340df9f4bb9571ef7ccee7  
+
+Package: com.lovejb.museosan
+Name: Museo San (iOS10-11)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Font "Museo San" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.museosan
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:17534134	
+MD5:99dbc354f2b297c41072b3f5136e8884  
+Filename: ./debs/com.lovejb.museosan_1.1_iphoneos-arm.deb
+SHA1:0e3f991d9472e8987211d0c9d25cd16eb286e4f0  
+SHA256:99475effe47e7a37d0774b29c3c5501e555adde6f7b37dc550472183aaef9cc3  

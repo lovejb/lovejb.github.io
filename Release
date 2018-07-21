@@ -1,6 +1,6 @@
 Origin: i Lve JB 👷
 Label: LveJB
-Origin: i Lve JB 👷
+Suite: stable
 Version: 1.0
 Codename: LveJB
 Architecture: iphoneos-arm
@@ -9,8 +9,8 @@ Description: Nguồn của ♻️Nguyễn Văn Hà♻️!! Luôn sưu tầm Twea
 
 MD5sum:
 
-6ff3aae42b2754827cc7ef7afb397cc7  
-31688	Packages
+fbe8773d2f85c7890c68a7b9a15f89a0  
+32339	Packages
 
-9d7e4998507fcfdab4ef2345770bf028  
-8595	Packages.bz2
+28b279c279637e2f1073ece9ad7f1dca  
+8676	Packages.bz2
