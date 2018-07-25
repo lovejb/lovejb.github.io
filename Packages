@@ -91,7 +91,7 @@ Version: 1.0b3
 Architecture: iphoneos-arm
 Description: Bo tròn Status và Tạo màu nền. Fix by Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.flotus
-Author: S.t=LoveJB <nguyenvanha9xyz@gmail.com>
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
@@ -724,3 +724,51 @@ MD5:99dbc354f2b297c41072b3f5136e8884
 Filename: ./debs/com.lovejb.museosan_1.1_iphoneos-arm.deb
 SHA1:0e3f991d9472e8987211d0c9d25cd16eb286e4f0  
 SHA256:99475effe47e7a37d0774b29c3c5501e555adde6f7b37dc550472183aaef9cc3  
+
+Package: com.lovejb.myriapro
+Name: Myria Pro (iOS10-11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Font "Myria Pro" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.myriapro
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:9647940	
+MD5:1938a4035847889079c348a4cc1f2a42  
+Filename: ./debs/com.lovejb.myriapro_1.0_iphoneos-arm.deb
+SHA1:faeaeb9e1979ddd52f58d9ad4cf7632d32a1073d  
+SHA256:342500b11caa44df3bbff3000945821e9ef0af92cc18b4c3aed56415f568ef21  
+
+Package: com.lovejb.digital
+Name: Digital Clock (iOS11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Digital Clock (iOS11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.digital
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 11), mobilesubstrate, com.anemonetheming.anemone
+Size:1170440	
+MD5:47b755c07d419cde57cbb96c019f657d  
+Filename: ./debs/com.lovejb.digital_1.0.0_iphoneos-arm.deb
+SHA1:737ae7a7c96420b5a8f5e888d8b50fd0e28ca637  
+SHA256:680d49d77e508fd02aefc22589b93fdedabc296cde5f512e77bc7b2c6a798fea  
+
+Package: com.lovejb.people
+Name: People Clock (iOS11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font People Clock (iOS11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.people
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 11), mobilesubstrate, com.anemonetheming.anemone
+Size:1053718	
+MD5:81427dbe46224e8196500a4c03006441  
+Filename: ./debs/com.lovejb.people_1.0.0_iphoneos-arm.deb
+SHA1:775dbb2070fc9498fc9c1dd27e05f2a0a32cee6c  
+SHA256:ef3e880a839e64a80d6012f24c35b74a40385f13ca35811b6300256fb4fa320f  
