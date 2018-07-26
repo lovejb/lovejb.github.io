@@ -493,22 +493,6 @@ Filename: ./debs/com.lovejb.qda_3.9.4k_iphoneos-arm.deb
 SHA1:8f93f20a4b18444d12d8d61123768253626d324a  
 SHA256:432c1521e3cb6bb86ab6955fad2cff38354fc9c525cbca30fe59c3e7000fa817  
 
-Package: com.lovejb.unjbelectra
-Name: UnJailbreak Electra (iOS11)
-Version: 1.1-2
-Architecture: iphoneos-arm
-Description: Semi Restore iOS11 ( Electra )
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
-Author: KirovAir
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: System
-Depends: firmware (>= 11)
-Size:4372	
-MD5:baea1302f8c5edca9e996825bb1ca4e0  
-Filename: ./debs/com.lovejb.unjbelectra_1.1-2_iphoneos-arm.deb
-SHA1:2a494d7cc3b1a4260442617f24601b6eb0bfb0d3  
-SHA256:d40205a2a107796b1ccda7a3af786c604bf70417b7e66cc247102443503a9286  
-
 Package: com.lovejb.appsyncunified
 Name: AppSync Unified
 Version: 30.0
@@ -772,3 +756,19 @@ MD5:81427dbe46224e8196500a4c03006441
 Filename: ./debs/com.lovejb.people_1.0.0_iphoneos-arm.deb
 SHA1:775dbb2070fc9498fc9c1dd27e05f2a0a32cee6c  
 SHA256:ef3e880a839e64a80d6012f24c35b74a40385f13ca35811b6300256fb4fa320f  
+
+Package: com.lovejb.unjbelectra
+Name: UnJailbreak Electra (iOS11)
+Version: 1.1-5
+Architecture: iphoneos-arm
+Description: Semi Restore iOS11 ( Electra ) - Được đóng gói bởi NGUYỄN VĂN HÀ
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
+Author: KirovAir & Nguyễn Văn Hà
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 11)
+Size:4568	
+MD5:f3efe3f5cb492d238ceece162316e6b5  
+Filename: ./debs/com.lovejb.unjbelectra_1.1-5_iphoneos-arm.deb
+SHA1:1712fbdbf3643495bb0af077ed8d63d2ed5c4aeb  
+SHA256:46decac123d28d565ec758f0319aac8ffa4a3a84618692976d06cd537fc66539  
