@@ -772,3 +772,35 @@ MD5:f3efe3f5cb492d238ceece162316e6b5
 Filename: ./debs/com.lovejb.unjbelectra_1.1-5_iphoneos-arm.deb
 SHA1:1712fbdbf3643495bb0af077ed8d63d2ed5c4aeb  
 SHA256:46decac123d28d565ec758f0319aac8ffa4a3a84618692976d06cd537fc66539  
+
+Package: com.lovejb.sfpro
+Name: SF Pro (iOS10-11)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Font in Notebook app applied system-wide
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.sfpro
+Author: Evelyn (ev_ynw)
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: com.anemonetheming.anemone
+Size:1186542	
+MD5:7b48b2cc797198cf0e191a468ff04054  
+Filename: ./debs/com.lovejb.sfpro_1.0_iphoneos-arm.deb
+SHA1:9d9bf4837ecb78382379b886d89e52863b5ec505  
+SHA256:df1d9ca2491b48e277177fae8c4fb0bdf7e952e534a8d45663cd44c197626e4c  
+
+Package: com.lovejb.edgy
+Name: Edgy (iOS10-11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Edgy" Được mod lại full Việt bởi "Hà Tía Tô"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.edgy
+Author: Hà Tía Tô
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:15653902	
+MD5:a8a513107e935e086151656fd57bcff1  
+Filename: ./debs/com.lovejb.edgy_1.0.0_iphoneos-arm.deb
+SHA1:b9c40df05b553bba47cf05ac8c04e28d13212cd4  
+SHA256:df216d4d11cd18d86a85418e73992ecff3288aec6e5efc8122831ea412b050f1  
