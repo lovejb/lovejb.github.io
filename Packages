@@ -804,3 +804,35 @@ MD5:a8a513107e935e086151656fd57bcff1
 Filename: ./debs/com.lovejb.edgy_1.0.0_iphoneos-arm.deb
 SHA1:b9c40df05b553bba47cf05ac8c04e28d13212cd4  
 SHA256:df216d4d11cd18d86a85418e73992ecff3288aec6e5efc8122831ea412b050f1  
+
+Package: com.lovejb.texgyreadventor
+Name: Tex Gyre Adventor (iOS10-11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Tex Gyre Adventor" Được mod lại full Việt bởi "Hà Tía Tô"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor
+Author: Hà Tía Tô
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:15593702	
+MD5:581993834168ba641e8d315160eeaa4d  
+Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
+SHA1:2aebb09de9207180c8d9b5f11a59cef0ba986b25  
+SHA256:3456e5a384c189bd600f3aec43b5ff783623bef166a5746719aaac19d6ec7d35  
+
+Package: com.lovejb.cariardream
+Name: Cariar Dream (iOS10-11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Cariar Dream" Được mod lại full Việt bởi "Hà Tía Tô"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.cariardream
+Author: Hà Tía Tô
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:14239658	
+MD5:e407a18b614542a9f80be6711b599426  
+Filename: ./debs/com.lovejb.cariardream_1.0.0_iphoneos-arm.deb
+SHA1:e5973656fddd3745426b2914110416b74638e884  
+SHA256:b3ff34e954e60fa734c5fc7b0f3f8ebb19d63045e967341711fd8fa259bad40b  
