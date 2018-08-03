@@ -329,22 +329,6 @@ Filename: ./debs/com.lovejb.crack-icleaner_1.0_iphoneos-arm.deb
 SHA1:56364bd56c2ae32b5ab5fd883900e7e9ab368d5a  
 SHA256:1120092bcddc4230879da8d701a543336fc5e8ff98d872adff200a227e832608  
 
-Package: com.lovejb.bytafont3
-Name: BytaFont 3 (IOS 10.3)
-Version: 3.1.5b
-Architecture: iphoneos-arm
-Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafont3
-Author: BytaFont.com <info@bytafont.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Tweaks
-Depends: firmware (>= 10.3), unzip, mobilesubstrate, com.lovejb.bytafonttm
-Size:2002882	
-MD5:3a65f6c9188a553d9eeed3409a654a4b  
-Filename: ./debs/com.lovejb.bytafont3_3.1.5b_iphoneos-arm.deb
-SHA1:1cffc370688ea443e08a31194b6a353c529d8082  
-SHA256:0d8d6e43f71870f8d5e1b990f80d2fccf081754a7b4c6c58515b71cd17ac53d7  
-
 Package: com.lovejb.maize10.3
 Name: Maize (IOS 10.3) - LoveJB
 Version: 1.3.1-01
@@ -409,23 +393,7 @@ Size:24438
 MD5:22dc3334be1ece4e657ab1618314454f  
 Filename: ./debs/com.lovejb.ntspeed_0.2~beta5_iphoneos-arm.deb
 SHA1:66a571544e925de2baf481c11ef12be44ba3fb9e  
-SHA256:dd562daefa600503301c49876b3a75760fd97ff6eb4aade5cc58f91bd67c349c  
-
-Package: com.lovejb.bytafonttm
-Name: BytaFont Tweak Mode
-Version: 1.1.4
-Architecture: iphoneos-arm
-Description: BytaFont Tweak Mode for BytaFont3.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafonttm
-Author: BytaFont.com <info@bytafont.com>
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Utilities
-Depends: mobilesubstrate
-Size:27676	
-MD5:aa9e37405aaa96ffec7eeadbb0ddbf6e  
-Filename: ./debs/com.lovejb.bytafonttm_1.1.4_iphoneos-arm.deb
-SHA1:01b90b53c425a01014cea89efb3277616964be29  
-SHA256:08a14680c092ffb5a645925a61d844f020581aa703c9dfb349456199857174e1  
+SHA256:dd562daefa600503301c49876b3a75760fd97ff6eb4aade5cc58f91bd67c349c    
 
 Package: com.lovejb.squareicon
 Name: Opennotifier Square Icon - LoveJB
@@ -852,3 +820,35 @@ MD5:c58e751dc00ffab585b7bbff4a0b2f07
 Filename: ./debs/com.lovejb.dax_1.1_iphoneos-arm.deb
 SHA1:bdf329b0bcd2b5b30e629dd0ef22e836c2e10a08  
 SHA256:44dd382246e4eec44cad2bffdfea076171dbcdc90c1fc6e087af7c0ef3826dcb  
+
+Package: com.lovejb.bytafont3ios11
+Name: BytaFont 3 (iOS11)
+Version: 3.5
+Architecture: iphoneos-arm
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafont3ios11
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 11), unzip, mobilesubstrate
+Size:1033982	
+MD5:45a12bf7bf4fa3aec6f31958bd532870  
+Filename: ./debs/com.lovejb.bytafont3ios11_3.5_iphoneos-arm.deb
+SHA1:464dff73a0e07766a2a29d82c136b662a371d772  
+SHA256:c7f1c60937ee2ec80b40030bd4066831b2c7eace1f143c38611f59d020b6e999  
+
+Package: com.lovejb.bytafont3ios103
+Name: BytaFont 3 (iOS 10.3)
+Version: 3.1.5b
+Architecture: iphoneos-arm
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.bytafont3ios103
+Author: BytaFont.com <info@bytafont.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 10.3), unzip, mobilesubstrate, firmware (<= 11)
+Size:2024092	
+MD5:dcd050d65161af10ddacbbe33f5bbb3c  
+Filename: ./debs/com.lovejb.bytafont3ios103_3.1.5b_iphoneos-arm.deb
+SHA1:e4cd207b5e0b68fa3388a739d693cc7d399ad620  
+SHA256:67cac7ec91b12044f45a80c5ae0b51db72cb5aec0753ffb605b348e7ff2e72a2  
