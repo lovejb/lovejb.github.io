@@ -813,7 +813,7 @@ Description: Font "Tex Gyre Adventor (iOS9)" huyền thoại. Được mod lại
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor9
 Author: Bùi Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
+Section: Anemone Fonts
 Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
 Size:9312658	
 MD5:b767fab8bf968f68dd20e06bfcf99a67  
@@ -829,10 +829,26 @@ Description: Font "Định Mệnh (iOS9)" huyền thoại. Được mod lại fu
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dinhmenh
 Author: Bùi Vũ Quang
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Font for Anemone
+Section: Anemone Fonts
 Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
 Size:5490218	
 MD5:091c8e5f46eccca9e4e618421e9ac349  
 Filename: ./debs/com.lovejb.dinhmenh_1.0.0_iphoneos-arm.deb
 SHA1:d3629d2e7268bd42172e878e73b99033a9cb3ffd  
 SHA256:7e1560dde5b5b8f5896a4bf0ebd9f2d5f73ba01388de68a097faaa85fb83d6ad  
+
+Package: com.lovejb.dax
+Name: Dax (iOS10-11)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Font "Dax" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dax
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:16862530	
+MD5:c58e751dc00ffab585b7bbff4a0b2f07  
+Filename: ./debs/com.lovejb.dax_1.1_iphoneos-arm.deb
+SHA1:bdf329b0bcd2b5b30e629dd0ef22e836c2e10a08  
+SHA256:44dd382246e4eec44cad2bffdfea076171dbcdc90c1fc6e087af7c0ef3826dcb  
