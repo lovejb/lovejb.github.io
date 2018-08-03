@@ -165,38 +165,6 @@ Filename: ./debs/com.lovejb.lebly_1.0.0_iphoneos-arm.deb
 SHA1:25931c01376081840b1f4cfeaac3de64f7125974  
 SHA256:f441c5931880b2eda1021ca61c1d87d67151113ca2ada8d6a543ee3fa4799db5  
 
-Package: com.lovejb.november2
-Name: Định Mệnh (iOS9) - LoveJB
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Font Định Mệnh huyền thoại. Được mod lại full Việt bởi Vũ Quang.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.november2
-Author: Bùi Vũ Quang
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Anemone Fonts
-Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
-Size:5490072	
-MD5:df3151375576dfed9c97d3799c269c13  
-Filename: ./debs/com.lovejb.november2_1.0.0_iphoneos-arm.deb
-SHA1:7e8f5deeedc76e5d999ab1aec665c6df86ea7866  
-SHA256:c34250d62ddb732c575d5e032b839f972702a56722b588fc611e41a8104d96f8  
-
-Package: com.lovejb.texgyreadventor
-Name: Tex Gyre Adventor (iOS9) - LoveJB
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Font Tex Gyre Adventor huyền thoại với nét chữ nhỏ,tròn. Được mod lại full Việt bởi Vũ Quang.
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor
-Author: Bùi Vũ Quang
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: Anemone Fonts
-Depends: firmware (>= 9.0), mobilesubstrate, com.anemonetheming.anemone, firmware (<= 10.0)
-Size:9312778	
-MD5:16da53f0f70e3878ce499e1354ff2a0a  
-Filename: ./debs/com.lovejb.texgyreadventor_1.0.0_iphoneos-arm.deb
-SHA1:95914e1dfa55da921c2465276f54fcaecdff0cdb  
-SHA256:1d0587541251e50f61a1d6908b80a5d14f112876c11227133ff9010f6820a7a0  
-
 Package: com.lovejb.ringtonespatch
 Name: Ringtones Patch
 Version: 2.0-11
@@ -836,3 +804,35 @@ MD5:e407a18b614542a9f80be6711b599426
 Filename: ./debs/com.lovejb.cariardream_1.0.0_iphoneos-arm.deb
 SHA1:e5973656fddd3745426b2914110416b74638e884  
 SHA256:b3ff34e954e60fa734c5fc7b0f3f8ebb19d63045e967341711fd8fa259bad40b  
+
+Package: com.lovejb.texgyreadventor9
+Name: Tex Gyre Adventor (iOS9)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Tex Gyre Adventor (iOS9)" huyền thoại. Được mod lại full Việt bởi Vũ Quang.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.texgyreadventor9
+Author: Bùi Vũ Quang
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
+Size:9312658	
+MD5:b767fab8bf968f68dd20e06bfcf99a67  
+Filename: ./debs/com.lovejb.texgyreadventor9_1.0.0_iphoneos-arm.deb
+SHA1:41296b74babdc13d780c2e55024943e246c3d6bb  
+SHA256:1f3ae9fddb36f3470e5813e27cb026ae16e3df998dd2a734140cc34373f3dcdf  
+
+Package: com.lovejb.dinhmenh
+Name: Định Mệnh (iOS9)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font "Định Mệnh (iOS9)" huyền thoại. Được mod lại full Việt bởi Vũ Quang.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.dinhmenh
+Author: Bùi Vũ Quang
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Font for Anemone
+Depends: firmware (<= 10), mobilesubstrate, firmware (>= 9.0), com.anemonetheming.anemone
+Size:5490218	
+MD5:091c8e5f46eccca9e4e618421e9ac349  
+Filename: ./debs/com.lovejb.dinhmenh_1.0.0_iphoneos-arm.deb
+SHA1:d3629d2e7268bd42172e878e73b99033a9cb3ffd  
+SHA256:7e1560dde5b5b8f5896a4bf0ebd9f2d5f73ba01388de68a097faaa85fb83d6ad  
