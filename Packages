@@ -869,3 +869,20 @@ MD5:291313c6ca9228c79384629caaed53f4
 Filename: ./debs/com.lovejb.2x2folder_0.0.1-4_iphoneos-arm.deb
 SHA1:83623481f607105fbbf388bd8d364368f218f34a  
 SHA256:2a9e6b9f01acd24186d85bfcf0a35762bbeb440e3e022da9e667ff29da4de390  
+
+Package: com.lovejb.sbarxlite
+Name: StatusBarX
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Bring the iPhone X StatusBar style to any idevice
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.sbarxlite
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.douliuroczy.sbarxlite
+Size:5168	
+MD5:a715aa1d314d3a1ca57834f91a1dcc61  
+Filename: ./debs/com.lovejb.sbarxlite_1.0-2_iphoneos-arm.deb
+SHA1:6248cc997403b72fd4dff3739e20bc6dd0a94382  
+SHA256:fb4cb17665abf7051c486e8c88f4799a3cd788b55a93917f79956fc70bca03cf  
