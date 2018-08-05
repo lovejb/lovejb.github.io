@@ -852,3 +852,20 @@ MD5:dcd050d65161af10ddacbbe33f5bbb3c
 Filename: ./debs/com.lovejb.bytafont3ios103_3.1.5b_iphoneos-arm.deb
 SHA1:e4cd207b5e0b68fa3388a739d693cc7d399ad620  
 SHA256:67cac7ec91b12044f45a80c5ae0b51db72cb5aec0753ffb605b348e7ff2e72a2  
+
+Package: com.lovejb.2x2folder
+Name: 2x2Folder
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak!
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.2x2folder
+Author: DODGraphics
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0)
+Conflicts: net.dodtweaks.2x2folder
+Size:4192	
+MD5:291313c6ca9228c79384629caaed53f4  
+Filename: ./debs/com.lovejb.2x2folder_0.0.1-4_iphoneos-arm.deb
+SHA1:83623481f607105fbbf388bd8d364368f218f34a  
+SHA256:2a9e6b9f01acd24186d85bfcf0a35762bbeb440e3e022da9e667ff29da4de390  
