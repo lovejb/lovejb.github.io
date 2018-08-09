@@ -886,3 +886,36 @@ MD5:a715aa1d314d3a1ca57834f91a1dcc61
 Filename: ./debs/com.lovejb.sbarxlite_1.0-2_iphoneos-arm.deb
 SHA1:6248cc997403b72fd4dff3739e20bc6dd0a94382  
 SHA256:fb4cb17665abf7051c486e8c88f4799a3cd788b55a93917f79956fc70bca03cf  
+
+Package: com.lovejb.ginesotm
+Name: Gineso (TM) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Gineso Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ginesotm
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: BytaFont Fonts
+Depends: firmware (>= 10), mobilesubstrate
+Size:1296012	
+MD5:7d411ea9a46e9a6332ebba6e04fcb655  
+Filename: ./debs/com.lovejb.ginesotm_1.0.0_iphoneos-arm.deb
+SHA1:8f7bea42b536a39c818d245f0261ca6890309141  
+SHA256:61493a06c90ffff61f383212f66c9d04cc06affe5b749eb7ec712f866b436543  
+
+Package: com.lovejb.appsyncunified
+Name: AppSync Unified
+Version: 31.1
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.appsyncunified
+Author: Linus Yang, Karen/あけみ
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Size:37774	
+MD5:3171d4581f9213ebb682321fac85791f  
+Filename: ./debs/com.lovejb.appsyncunified_31.1_iphoneos-arm.deb
+SHA1:0ce4fec1b1732db48ce9ad7f37180894ed659ead  
+SHA256:33298a37223984ceef5d46d17d766a3f4dca89e274e73e8b7f24b52fd6479583  
