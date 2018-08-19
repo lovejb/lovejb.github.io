@@ -946,8 +946,8 @@ Author: c1d3r
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Size:808	
-MD5:8f3300b4244d5e50ebad4017d0e33b42  
+Size:2432198
+MD5:9485c3ca21fad948d7e05a4bc8fe3f98  
 Filename: ./debs/com.lovejb.messageheadsxi_1.1-1_iphoneos-arm.deb
-SHA1:a610e1257f6b5fc6057f7191e9dbfdad12119b40  
-SHA256:f5ba7aa8512faa5f696d84b7a628dcbb7f0e7648487f70ef3f803cb4334ef496  
+SHA1:ddc0336bb2a5dd8d3dd34eb3c75fa4c93bf67892  
+SHA256:0adda3a77780a5e48075ab6d593fd8c73bbc2c48d0eee2a18eeef728617ec75b  
