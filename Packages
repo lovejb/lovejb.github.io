@@ -935,3 +935,19 @@ MD5:ba52f63a75b2f03db67a0b368c2d8daf
 Filename: ./debs/com.lovejb.zhaozhyone_1.1_iphoneos-arm.deb
 SHA1:147f3a83cac8284f1a3b6b6c0c6f6a3061e9e913  
 SHA256:d9829c2d71040b6fffd1f3aaac4b55c18881b5e1748d61e16e6ec2e1242730e0  
+
+Package: com.lovejb.messageheadsxi
+Name: MesageHeadsXI - Redem
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: Floating chat heads for SMS, WhatsApp, and Facebook Messenger!
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.messageheadsxi
+Author: c1d3r
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Size:808	
+MD5:8f3300b4244d5e50ebad4017d0e33b42  
+Filename: ./debs/com.lovejb.messageheadsxi_1.1-1_iphoneos-arm.deb
+SHA1:a610e1257f6b5fc6057f7191e9dbfdad12119b40  
+SHA256:f5ba7aa8512faa5f696d84b7a628dcbb7f0e7648487f70ef3f803cb4334ef496  
