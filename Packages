@@ -951,3 +951,19 @@ MD5:74243f1f5fc97409f44ef85f93dded92
 Filename: ./debs/com.lovejb.messageheadsxi_1.1-1k_iphoneos-arm.deb
 SHA1:9c41be6ffc7b07aeca874a76fa1df7e2a005235e  
 SHA256:2a48eecd2a890661c6cf8f6f81a133c501f54b9fcf71ae07a19ad080fa078bcd  
+
+Package: com.lovejb.kudo
+Name: Kudo (iOS10-11)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Font "Kudo" Được mod lại full Việt bởi "Độc Hành"
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.kudo
+Author: Độc Hành
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Anemone Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
+Size:20192654	
+MD5:23e06622bddb90450a90a24e90169716  
+Filename: ./debs/com.lovejb.kudo_1.1_iphoneos-arm.deb
+SHA1:48e77e692901a0d5c6079d474c1f0b83510b809f  
+SHA256:6bba17812a5f21c944e1a1da4ef6534b91cf4c992a57d59e9175e96df590700f  
