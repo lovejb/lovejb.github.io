@@ -230,7 +230,7 @@ SHA256:e7a94076a3f664f38b87ec4f2aaae756b148575c4dfe55c5a272989faa9b1a31
 Icon: file:///Applications/Appvn.app/AppIcon60x60@2x.png
 
 Package: com.lovejb.pullover
-Name: PullOver10 - Crack
+Name: PullOver10 - Redem
 Version: 2.0.5.1-1
 Architecture: iphoneos-arm
 Description: A better way to multitask!
@@ -936,22 +936,6 @@ Filename: ./debs/com.lovejb.zhaozhyone_1.1_iphoneos-arm.deb
 SHA1:147f3a83cac8284f1a3b6b6c0c6f6a3061e9e913  
 SHA256:d9829c2d71040b6fffd1f3aaac4b55c18881b5e1748d61e16e6ec2e1242730e0  
 
-Package: com.lovejb.messageheadsxi
-Name: MessageHeadsXI - Redem
-Version: 1.1-1k
-Architecture: iphoneos-arm
-Description: mFloating chat heads for SMS, WhatsApp, and Facebook Messenger!
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.messageheadsxi
-Author: c1d3r
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: IOS 11.3.1
-Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Size:3158362	
-MD5:74243f1f5fc97409f44ef85f93dded92  
-Filename: ./debs/com.lovejb.messageheadsxi_1.1-1k_iphoneos-arm.deb
-SHA1:9c41be6ffc7b07aeca874a76fa1df7e2a005235e  
-SHA256:2a48eecd2a890661c6cf8f6f81a133c501f54b9fcf71ae07a19ad080fa078bcd  
-
 Package: com.lovejb.kudo
 Name: Kudo (iOS10-11)
 Version: 1.1
@@ -967,3 +951,35 @@ MD5:23e06622bddb90450a90a24e90169716
 Filename: ./debs/com.lovejb.kudo_1.1_iphoneos-arm.deb
 SHA1:48e77e692901a0d5c6079d474c1f0b83510b809f  
 SHA256:6bba17812a5f21c944e1a1da4ef6534b91cf4c992a57d59e9175e96df590700f  
+
+Package: com.lovejb.bypassdpkg
+Name: Bypass Dpkg
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bỏ qua check Tweak cài nguồn không chính chủ
+Author: Kiiimo Repositoty
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: org.cydia.kiimo.dpkgcheckbypassunofficialsource
+Size:4106	
+MD5:7f9388b0a07a0d72fb3daee43828d2ce  
+Filename: ./debs/com.lovejb.bypassdpkg_1.0_iphoneos-arm.deb
+SHA1:8e2ecaf70e1599de49531dbb89eabcdbb6a0a808  
+SHA256:28d0ccfda5354c394e50fdb36fe98cc6246718c44b2c6c8e34776d270c9d72ee  
+
+Package: com.lovejb.messageheadsxi
+Name: MessageHeadsXI - Redem
+Version: 1.1-1k
+Architecture: iphoneos-arm
+Description: mFloating chat heads for SMS, WhatsApp, and Facebook Messenger!
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.messageheadsxi
+Author: c1d3r
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.lovejb.bypassdpkg, com.rpetrich.rocketbootstrap
+Size:3158374	
+MD5:bce887ba027660a79b2a9d89dabc3e6c  
+Filename: ./debs/com.lovejb.messageheadsxi_1.1-1k_iphoneos-arm.deb
+SHA1:639b75b7a43625d2239092d0065127b4ca108078  
+SHA256:d8d3601b2f8d9f3b3a2f9c10d2e37ba0ad531f578e3a78f1576207a06fad0cd4  
