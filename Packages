@@ -692,22 +692,6 @@ Filename: ./debs/com.lovejb.people_1.0.0_iphoneos-arm.deb
 SHA1:775dbb2070fc9498fc9c1dd27e05f2a0a32cee6c  
 SHA256:ef3e880a839e64a80d6012f24c35b74a40385f13ca35811b6300256fb4fa320f  
 
-Package: com.lovejb.unjbelectra
-Name: UnJailbreak Electra (iOS11)
-Version: 1.1-5
-Architecture: iphoneos-arm
-Description: Semi Restore iOS11 ( Electra ) - Được đóng gói bởi NGUYỄN VĂN HÀ
-Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
-Author: KirovAir & Nguyễn Văn Hà
-Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: System
-Depends: firmware (>= 11)
-Size:4568	
-MD5:f3efe3f5cb492d238ceece162316e6b5  
-Filename: ./debs/com.lovejb.unjbelectra_1.1-5_iphoneos-arm.deb
-SHA1:1712fbdbf3643495bb0af077ed8d63d2ed5c4aeb  
-SHA256:46decac123d28d565ec758f0319aac8ffa4a3a84618692976d06cd537fc66539  
-
 Package: com.lovejb.sfpro
 Name: SF Pro (iOS10-11)
 Version: 1.0
@@ -981,4 +965,20 @@ Size:3169728
 MD5:beae5f9882ab3a42ba8658253a726419  
 Filename: ./debs/com.lovejb.messageheadsxi_1.1-7_iphoneos-arm.deb
 SHA1:750f77de3fa1e8f7d73c10d5fcdbec0cd625953b  
-SHA256:6b9cc0f6af08c09ebf301a4416eb870b93715beb4d7518da069218ae61ae5d36  
+SHA256:6b9cc0f6af08c09ebf301a4416eb870b93715beb4d7518da069218ae61ae5d36
+
+Package: com.lovejb.unjbelectra
+Name: UnJailbreak Electra (iOS11)
+Version: 1.1-6
+Architecture: iphoneos-arm
+Description: Semi Restore iOS11 ( Electra ) - Được đóng gói bởi NGUYỄN VĂN HÀ
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.unjbelectra
+Author: KirovAir & Nguyễn Văn Hà
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: firmware (>= 11)
+Size:4586	
+MD5:3d098a4f22f2ef306b3191896a1c5bb8  
+Filename: ./debs/com.lovejb.unjbelectra_1.1-6_iphoneos-arm.deb
+SHA1:9b2548f9693b764db1909d0817e007851a2cffb7  
+SHA256:5637bcf5973dbb2f9290953cd6210e76d542d5d1f1aecc0c35ca390e7d1aada5  
