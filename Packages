@@ -252,7 +252,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Lebly Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.lebly9
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (<= 10), mobilesubstrate, com.anemonetheming.anemone, firmware (>= 9.0)
@@ -318,7 +318,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Cài phiên bản chính chủ trước khi cài crack, chỉ cần cài là crack đc không cần phải làm gì thêm
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.crack-icleaner
-Author: Trần Chiến <kid95nd@gmail.com>
+Author: LoveJB <kid95nd@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Utilities
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
@@ -586,7 +586,7 @@ Version: 1.0.7
 Architecture: iphoneos-arm
 Description: Font "Conte San" Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.contesan
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 10), mobilesubstrate, com.anemonetheming.anemone
@@ -666,7 +666,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Digital Clock (iOS11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.digital
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 11), mobilesubstrate, com.anemonetheming.anemone
@@ -682,7 +682,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font People Clock (iOS11) huyền thoại. Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.people
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: Anemone Fonts
 Depends: firmware (>= 11), mobilesubstrate, com.anemonetheming.anemone
@@ -876,7 +876,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Font Gineso Được mod lại full Việt bởi Nguyễn Văn Hà.
 Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ginesotm
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
 Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
 Section: BytaFont Fonts
 Depends: firmware (>= 10), mobilesubstrate
@@ -982,3 +982,19 @@ MD5:3d098a4f22f2ef306b3191896a1c5bb8
 Filename: ./debs/com.lovejb.unjbelectra_1.1-6_iphoneos-arm.deb
 SHA1:9b2548f9693b764db1909d0817e007851a2cffb7  
 SHA256:5637bcf5973dbb2f9290953cd6210e76d542d5d1f1aecc0c35ca390e7d1aada5  
+
+Package: com.lovejb.ginesotm11
+Name: Gineso (iOS11) - LoveJB
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Font Gineso Được mod lại full Việt bởi Nguyễn Văn Hà.
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.ginesotm11
+Author: Nguyễn Văn Hà <nguyenvanha9xyz@gmail.com>
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: BytaFont Fonts
+Depends: firmware (>= 10), mobilesubstrate, com.lovejb.bytafont3ios11
+Size:1297472	
+MD5:2dbcc23804d89cfb31adef0d115a8c04  
+Filename: ./debs/com.lovejb.ginesotm11_1.0.0_iphoneos-arm.deb
+SHA1:be6527d8448e985cc8caa669886f59d13bd02ddc  
+SHA256:70151b700b2f04879f1cae188a6115c584535119f1a7b0c4b3a3cd7937df5828  
