@@ -998,3 +998,19 @@ MD5:2dbcc23804d89cfb31adef0d115a8c04
 Filename: ./debs/com.lovejb.ginesotm11_1.0.0_iphoneos-arm.deb
 SHA1:be6527d8448e985cc8caa669886f59d13bd02ddc  
 SHA256:70151b700b2f04879f1cae188a6115c584535119f1a7b0c4b3a3cd7937df5828  
+
+Package: com.lovejb.jbme10
+Name: jBmE (iOS10)
+Version: 10-10.3
+Architecture: iphoneos-arm
+Description: Re-Active iOS10-10.3 Jailbreak Ofline. Tạo bởi Nguyễn Văn Hà
+Depiction: https://lovejb.github.io/description.html?id=com.lovejb.jbme10
+Author: Nguyễn Văn Hà
+Maintainer: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: System
+Depends: mobilesubstrate
+Size:90532	
+MD5:f1d33b354a540687ae9104386369e8c4  
+Filename: ./debs/com.lovejb.jbme10_10-10.3_iphoneos-arm.deb
+SHA1:671d4ab9cb1f912e2452d274342347dd62ce3418  
+SHA256:7211dae847f944df3b4b67e94f9f456745c524649408ac85165e5ffa92cfafb3  
